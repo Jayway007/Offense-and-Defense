@@ -21,6 +21,7 @@ graph TD;
     business-->audit;
     audit-->apigw;
     audit-->vpn;
+    audit-->cloud;
     
     security-->network;
     security-->host;
