@@ -610,3 +610,4 @@ Offline version of the ps1 available at --> https://github.com/antonioCoco/ConPt
 * [Pentest Monkey - Cheat Sheet Reverse shell](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
 * [Spawning a TTY Shell](https://saucer-man.com/information_security/233.html#cl-1)
 * [Obtaining a fully interactive shell](https://forum.hackthebox.eu/discussion/142/obtaining-a-fully-interactive-shell)
+* [Creating-a-Basic-Python-Reverse-Shell-Listener](https://tpetersonkth.github.io/2021/10/16/Creating-a-Basic-Python-Reverse-Shell-Listener.html)
