@@ -1,5 +1,6 @@
 ## Summary
 * [Tools](#tools)
+* [Reverse Listner](#reverse-listener)
 * [Reverse Shell](#reverse-shell)
     * [Awk](#awk)
     * [Automatic Reverse Shell Generator](#revshells)
@@ -43,10 +44,17 @@
 - [revshellgen](https://github.com/t0thkr1s/revshellgen) -  CLI Reverse Shell generator
 
 
-## Server
-nc -lvnp 4444
+## Reverse Listener
 
-## Client
+### Netcat
+
+```bash
+nc -lvnp 9001
+```
+
+
+## Reverse Shell
+
 ### Bash TCP
 
 ```bash
