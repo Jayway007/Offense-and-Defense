@@ -524,17 +524,16 @@ rlwrap -r -f . nc 10.0.0.1 4242
 
 Sometimes, you want to access shortcuts, su, nano and autocomplete in a partially tty shell.
 
-:warning: OhMyZSH might break this trick, a simple `sh` is recommended
-
-> The main problem here is that zsh doesn't handle the stty command the same way bash or sh does. [...] stty raw -echo; fg[...] If you try to execute this as two separated commands, as soon as the prompt appear for you to execute the fg command, your -echo command already lost its effect
 
 ```powershell
 ctrl+z
 echo $TERM && tput lines && tput cols
 
 # for bash
+ctrl+z
 stty raw -echo
 fg
+ENTER
 
 # for zsh
 stty raw -echo; fg
@@ -607,5 +606,5 @@ Offline version of the ps1 available at --> https://github.com/antonioCoco/ConPt
 
 * [Reverse Bash Shell One Liner](https://security.stackexchange.com/questions/166643/reverse-bash-shell-one-liner)
 * [Pentest Monkey - Cheat Sheet Reverse shell](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
-* [Spawning a TTY Shell](http://netsec.ws/?p=337)
+* [Spawning a TTY Shell]([http://netsec.ws/?p=337](https://saucer-man.com/information_security/233.html#cl-1))
 * [Obtaining a fully interactive shell](https://forum.hackthebox.eu/discussion/142/obtaining-a-fully-interactive-shell)
