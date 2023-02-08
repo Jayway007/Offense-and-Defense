@@ -1,3 +1,48 @@
+## Summary
+* [Tools](#tools)
+* [Reverse Shell](#reverse-shell)
+    * [Awk](#awk)
+    * [Automatic Reverse Shell Generator](#revshells)
+    * [Bash TCP](#bash-tcp)
+    * [Bash UDP](#bash-udp)
+    * [C](#c)
+    * [Dart](#dart)
+    * [Golang](#golang)
+    * [Groovy Alternative 1](#groovy-alternative-1)
+    * [Groovy](#groovy)
+    * [Java Alternative 1](#java-alternative-1)
+    * [Java Alternative 2](#java-alternative-2)
+    * [Java](#java)
+    * [Lua](#lua)
+    * [Ncat](#ncat)
+    * [Netcat OpenBsd](#netcat-openbsd)
+    * [Netcat BusyBox](#netcat-busybox)
+    * [Netcat Traditional](#netcat-traditional)
+    * [NodeJS](#nodejs)
+    * [OpenSSL](#openssl)
+    * [Perl](#perl)
+    * [PHP](#php)
+    * [Powershell](#powershell)
+    * [Python](#python)
+    * [Ruby](#ruby)
+    * [Socat](#socat)
+    * [Telnet](#telnet)
+    * [War](#war)
+* [Meterpreter Shell](#meterpreter-shell)
+    * [Windows Staged reverse TCP](#windows-staged-reverse-tcp)
+    * [Windows Stageless reverse TCP](#windows-stageless-reverse-tcp)
+    * [Linux Staged reverse TCP](#linux-staged-reverse-tcp)
+    * [Linux Stageless reverse TCP](#linux-stageless-reverse-tcp)
+    * [Other platforms](#other-platforms)
+* [Spawn TTY Shell](#spawn-tty-shell)
+* [References](#references)
+
+## Tools
+
+- [reverse-shell-generator](https://www.revshells.com/) - Hosted Reverse Shell generator ([source](https://github.com/0dayCTF/reverse-shell-generator)) ![image](https://user-images.githubusercontent.com/44453666/115149832-d6a75980-a033-11eb-9c50-56d4ea8ca57c.png)
+- [revshellgen](https://github.com/t0thkr1s/revshellgen) -  CLI Reverse Shell generator
+
+
 ## Server
 nc -lvnp 4444
 
