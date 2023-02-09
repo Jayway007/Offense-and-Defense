@@ -49,6 +49,12 @@
 ### Netcat-l
 
 ```bash
+wget https://nchc.dl.sourceforge.net/project/netcat/netcat/0.7.1/netcat-0.7.1.tar.gz
+tar -xvzf netcat-0.7.1.tar.gz
+./configure
+make && make install
+make clean
+
 nc -lvnp 9001
 ```
 
