@@ -605,4 +605,4 @@ Offline version of the ps1 available at --> https://github.com/antonioCoco/ConPt
 * [Obtaining a fully interactive shell](https://forum.hackthebox.eu/discussion/142/obtaining-a-fully-interactive-shell)
 * [Creating-a-Basic-Python-Reverse-Shell-Listener](https://tpetersonkth.github.io/2021/10/16/Creating-a-Basic-Python-Reverse-Shell-Listener.html)
 * [Windows reverse shell using Powershell](https://www.anquanke.com/post/id/99793)
-* [xianzhi-reverse all in one](https://xz.aliyun.com/t/9488#toc-9)
+* [Reverse shell all in one-xianzhi](https://xz.aliyun.com/t/9488#toc-9)
