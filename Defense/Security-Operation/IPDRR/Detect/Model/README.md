@@ -7,7 +7,9 @@
   - Whitelist
     - match/regex
     - baseline(UEBA)
-
+  - Correlation
+    - Threat Intelligence 
+    - joint alarms
 
 
 
