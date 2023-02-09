@@ -1,7 +1,12 @@
 ## Tools
 ## Classification
   -
-
+## Develop Methods
+  - Blacklist
+    - match/regex
+  - Whitelist
+    - match/regex
+    - baseline(UEBA)
 
 
 
