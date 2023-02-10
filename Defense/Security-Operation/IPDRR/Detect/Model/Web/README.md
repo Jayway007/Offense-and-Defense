@@ -6,9 +6,10 @@
 
 
 
-### Access Log
+### Comparison 
 
-| Rule  | Principle | Second Header |
+| Log Type  | Advantages | Disadvantages |
 | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Second Header |
-| Content Cell  | Content Cell  | Second Header |
+| WAF  | Get attack data Directly  | Only part of request data |
+| Access  | Full request data | Filter out attack data| Filter out attack data|
+ |   |  | Log format normalization|
