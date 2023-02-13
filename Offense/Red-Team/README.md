@@ -1,8 +1,8 @@
 ##  Attack Experience
 ### Misconfigure
-- nginx config
+- Nginx config
 - Spingboot Actuator
--
+- Unauthorization
 
 ### Vulnerability
 
