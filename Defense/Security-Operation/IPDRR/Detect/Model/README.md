@@ -1,7 +1,7 @@
 ## Summary
 - [Classification](#classification)
 - [Rules](#rules)
-
+- [Cases](#case)
 
 
 ## Classification
@@ -16,14 +16,29 @@
     - Type: expert experience / Threat Inteligence /
 
   - Joint Detect
-    -
+    - Type: logic / summary / sequence / attack chain /
+  
+  - Automation Analysis
+    - Type：assets character / shell trigger
   
 
 ## Rules Develop
-   - match/regex
+   - Function
+     - match/regex
+   - Semantic Analysis
+   - Machine Learning
+     - unsupervised algorithm
+     - supervised algorithm: add tags
+   - 
 
+## Cases
+- Case1 [Huawei](https://mp.weixin.qq.com/s/AVlAoCPEJnNL_DuHGGD0Hg)
 
-
+![attack case](https://mmbiz.qpic.cn/mmbiz_png/EjJibicwCQS5Soia2skxAg1rOhksZ8fibxQL6RDJcDzgCWGI39p4Ytzz41kUNFyic1icjdNDXr8zibxYU54exz2qdJ8PA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+  - Bussiness whitelist ——> web upload api
+  - Network blacklist ——> wget C2 script
+  - Host blacklist ——> commands
+  - Joint alarms ——> SOAR handling
 
 
 ### Tools
