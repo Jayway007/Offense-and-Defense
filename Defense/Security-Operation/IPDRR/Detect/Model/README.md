@@ -1,32 +1,25 @@
 ## summary
-- [Classification](#Classification)
-
+- [Classification](#classification)
+- [Rules](#rules)
 
 
 
 ## Classification
-  - whitelist
-  - 
+  - Business whitelist
+    - Scene: unable to enumerate all attack scenes / unable to use experience / detect unknown attack scene
+    - Types: Time seuence / unsupervised algorithm / 
+    
+  - Abnormal Blacklist
+    - Types: count and frequency / response time and body size / behavior: time location action / 
+    - 
+  - Malicious Blacklist
+    - Type: experience / Threat Inteligence /
+
+  - Joint Detect
   
-  
-  
-  
-  
-## Develop Methods
-  - Blacklist
-    - match/regex
-  - Whitelist
-    - match/regex
-    - baseline(UEBA)
-  - Correlation
-    - Threat Intelligence 
-    - joint alarms
 
-
-
-
-
-
+## Rules Develop
+   - match/regex
 
 
 
