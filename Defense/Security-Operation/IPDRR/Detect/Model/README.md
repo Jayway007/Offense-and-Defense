@@ -1,4 +1,4 @@
-## summary
+## Summary
 - [Classification](#classification)
 - [Rules](#rules)
 
@@ -13,9 +13,10 @@
     - Types: count and frequency / response time and body size / behavior: time location action / 
     - 
   - Malicious Blacklist
-    - Type: experience / Threat Inteligence /
+    - Type: expert experience / Threat Inteligence /
 
   - Joint Detect
+    -
   
 
 ## Rules Develop
