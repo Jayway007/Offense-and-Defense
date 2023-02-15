@@ -3,8 +3,8 @@
  - [Functions](#functions)
  - [Agent information Collection](#information)
    - [Process](#1-process)
-   - Network
-   - File
+   - [Network]((#2-network))
+   - [File]((#3-process))
 - [Reference](#reference)
 
 ## Introduction
@@ -14,6 +14,12 @@
    
    **Server** is usually used as an information center to deploy rules, collect data obtained from various security components, analyze the data, and determine whether host behavior is abnormal based on rules, and alarms and prompts the abnormal behaviors of the host.
    
+## Functions
+- information collect: prccess/file(config/appinfo)/network/cmdline
+- security baseline check
+- attack detection monitor
+
+
 
 ## Information
 ### 1. Process 
@@ -44,10 +50,16 @@
   -  hijack libc library
   -  
 - _Kernel-level(Ring0/Ring1)_ :  complex and may cause compatibility problems, kernel may panic but cannot be bypassed in principle
-  
+  - ebpf
+  - 
 ### Detection rules
 
 
+### 2. Network 
+  In the Linux o
+  
+### 3. File 
+  In the Linux o
 
 
 ## Reference
