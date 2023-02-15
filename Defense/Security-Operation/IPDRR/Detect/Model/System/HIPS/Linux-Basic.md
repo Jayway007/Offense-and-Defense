@@ -1,3 +1,7 @@
+## design thinking
+ - _Everything is file_ : 
+ 
+  File can be understood as super class, derive class included common file, device, network socket, process and pipe.The best benefit is you can use API of file to handle all thse, such as read, write and close.
 
 ## Directory
 ### /proc directory
