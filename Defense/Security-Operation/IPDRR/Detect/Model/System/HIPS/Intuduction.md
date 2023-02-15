@@ -20,11 +20,11 @@
 #### 1.1 data  
   Basically obtain data below:
  
- 
 | Data  | Meaning |
 | ------------- | ------------- |
-| agentid | Hips agent userid  |
-| agentip | Hips agent ip |
+| create_time | File creation time  |
+| modify_time | Last file modification time  |
+| path | The path of executable file  |
 | pid | Process id  |
 | uid | Uer id of the user who started the process  |
 | gid | Group id of the user who started the process  |
@@ -34,8 +34,5 @@
 | pathlink | Executable file path links of process call  |
 | ancestor_info | Ancestor Process pid & path & cmdline |
 | parent_info | Parent Process pid & path & cmdline |
-| path | The path of executable file  |
-| path | The path of executable file  |
-| path | The path of executable file  |
-| path | The path of executable file  |
-  
+| net |  network connection related to process : ip & port  |
+| fd | File descriptor |  
