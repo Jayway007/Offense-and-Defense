@@ -4,7 +4,7 @@
  - [Agent information Collection](#information)
    - [Process](#1-process)
    - [Network](#2-network)
-   - [File](#3-process)
+   - [File](#3-file)
 - [Reference](#reference)
 
 ## Introduction
