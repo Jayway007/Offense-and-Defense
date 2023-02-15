@@ -54,3 +54,8 @@ graph TD;
 
     
 ```
+
+## Algorithms 
+- provenance graphs
+  - [Provenance-based Intrusion Detection](https://tfjmp.org/slides/2020-winter.pdf)
+  - [Threat detection and investigation with system-level provenance graphs](https://www.sciencedirect.com/science/article/pii/S0167404821001061)
