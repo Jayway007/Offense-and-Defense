@@ -58,9 +58,43 @@
 ### 2. Network 
   In the Linux o
   
+#### 2.1 Data  
+  Basically obtain data below:
+ 
+| Data  | Meaning |
+| ------------- | ------------- |
+| create_time | File creation time  |
+| modify_time | Last file modification time  |
+| path | The path of executable file  |
+| pid | Process id  |
+
+#### 2.2 Monitoring methods 
+  Process monitoring
+  
+  
 ### 3. File 
   In the Linux o
+  
+  
+#### 3.1 Data  
+- Basically obtain data below:
+ 
+| Data  | Meaning |
+| ------------- | ------------- |
+| create_time | File creation time  |
+| modify_time | Last file modification time  |
+| path | The path of executable file  |
+| pid | Process id  |
 
+- events are as below:
+  
+ access/modify/attrib/close_write/close/open/move/create/delete/unmount
+
+
+#### 3.2 Monitoring methods 
+  - [inotify](https://medium.com/100-days-of-linux/an-introduction-to-file-system-monitoring-tools-afd99164ce66) : a Linux kernel subsystem that reports file system changes to applications.
+  - 
 
 ## Reference
 - [Linux HIDS agent Summary and User Status HOOK [1]](https://paper.seebug.org/1104/)  @Seebug
+- 
