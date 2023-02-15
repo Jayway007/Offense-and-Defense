@@ -3,8 +3,8 @@
  - [Functions](#functions)
  - [Agent information Collection](#information)
    - [Process](#1-process)
-   - [Network]((#2-network))
-   - [File]((#3-process))
+   - [Network](#2-network)
+   - [File](#3-process)
 - [Reference](#reference)
 
 ## Introduction
