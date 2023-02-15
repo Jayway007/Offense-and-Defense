@@ -12,8 +12,8 @@ Go framework implementation of eBPF, abstract implementation of multi-type event
 
 
 ## Resouces
-- [https://github.com/gojue/ebpf-slide](https://github.com/gojue/ebpf-slide) @gojue
+- [ebpf-slide](https://github.com/gojue/ebpf-slide) @gojue
   - Keywords: #Basic #Security #network #monitor #Android
-
+- [cnxct](https://www.cnxct.com/) @ cnxct_blog
 ## Practice
 - 
