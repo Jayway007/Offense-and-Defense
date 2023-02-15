@@ -1,13 +1,11 @@
 
 ## Implementations & Functionalities
 1. Security
-```
-Process data capture : raw_tracepoint
-File access capture : kprobe
-Network connection capture : kprobe
+- Process data capture : raw_tracepoint : sched_process_*
+- File access capture : kprobe : security_file/path_*, vfs
+- Network connection capture : kprobe : security_socket_*
+- JAVA RASP command execution scene event capture ： uprobe
 
-Uprobe way to achieve JAVA RASP command execution scene event capture
-Go framework implementation of eBPF, abstract implementation of multi-type events for the kprobe\uprobe mounting method.
 ```
 
 
