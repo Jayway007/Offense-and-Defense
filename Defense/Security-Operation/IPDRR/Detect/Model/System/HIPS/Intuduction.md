@@ -48,10 +48,14 @@
   Process monitoring usually use hook technology, roughly divided into two types：
 - _Application-level(Ring3)_ : simple but easy be bypassed
   -  hijack libc library
-  -  
+  -  LD_preload
+
+
 - _Kernel-level(Ring0/Ring1)_ :  complex and may cause compatibility problems, kernel may panic but cannot be bypassed in principle
+  - Netlink Connector
+  - Systemcall
   - ebpf
-  - 
+  
 ### Detection rules
 
 
