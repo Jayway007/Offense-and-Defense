@@ -1,4 +1,9 @@
-## design thinking
+## Summary
+- Design thinking
+- Directory
+- 
+
+## Design thinking
  - _Everything is file_ : 
  
   File can be understood as super class, derive class included common file, device, network socket, process and pipe.The best benefit is you can use API of file to handle all thse, such as read, write and close.
@@ -23,3 +28,8 @@
 | /proc/net | record information about network |
 | /dev/tty | teletype : virtual console  |
 | /dev/pty| pseudo : remote login ternimal shell |
+
+## Tracing
+- [Linux tracing - kprobe, uprobe and tracepoint](https://terenceli.github.io/%E6%8A%80%E6%9C%AF/2020/08/05/tracing-basic) @terenceli
+
+
