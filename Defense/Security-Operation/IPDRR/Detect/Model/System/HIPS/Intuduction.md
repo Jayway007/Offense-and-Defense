@@ -93,7 +93,8 @@
 
 #### 3.2 Monitoring methods 
   - [inotify](https://medium.com/100-days-of-linux/an-introduction-to-file-system-monitoring-tools-afd99164ce66) : a Linux kernel subsystem that reports file system changes to applications.
-  - 
+  - [Watchman](https://www.tecmint.com/watchman-monitor-file-changes-in-linux/) : an open source and cross-platform file watching service that watches files and records or performs actions when they change
+  - [auditd] : Linux Audit system
 
 ## Reference
 - [Linux HIDS agent Summary and User Status HOOK [1]](https://paper.seebug.org/1104/)  @Seebug
