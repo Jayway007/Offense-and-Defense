@@ -5,6 +5,7 @@
    - [Process](#1-process)
    - Network
    - File
+- [Reference](#reference)
 
 ## Introduction
    Host intrusion detection usually divided into two parts: agent and server.
@@ -44,3 +45,7 @@
   -  
 - _Kernel-level(Ring0/Ring1)_ :  complex and may cause compatibility problems, kernel may panic but cannot be bypassed in principle
   
+
+
+## Reference
+- [Linux HIDS agent Summary and User Status HOOK [1]](https://paper.seebug.org/1104/)  @Seebug
