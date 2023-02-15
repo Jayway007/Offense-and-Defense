@@ -1,5 +1,9 @@
 
-# Command keywords bypass
+# Solution
+- [反弹shell-逃逸基于execve的命令监控(上)](https://cloud.tencent.com/developer/article/1560417) @七夜
+
+
+## Command keywords bypass
 - Question mark
 ```
 /usr/bin/cur?
@@ -54,4 +58,7 @@ bash<<<$(base64 -d<<<Y2F0IC9ldGMvcGFzc3dkIHwgZ3JlcCAzMw==) #base64
 
 
 ## Reference
-[bypass-bash-restrictions_HackTricks](https://book.hacktricks.xyz/linux-hardening/bypass-bash-restrictions)
+- [bypass-bash-restrictions_HackTricks](https://book.hacktricks.xyz/linux-hardening/bypass-bash-restrictions)
+
+
+
