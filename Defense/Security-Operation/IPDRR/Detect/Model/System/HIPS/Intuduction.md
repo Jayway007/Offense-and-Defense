@@ -45,6 +45,9 @@
   -  
 - _Kernel-level(Ring0/Ring1)_ :  complex and may cause compatibility problems, kernel may panic but cannot be bypassed in principle
   
+### Detection rules
+
+
 
 
 ## Reference
