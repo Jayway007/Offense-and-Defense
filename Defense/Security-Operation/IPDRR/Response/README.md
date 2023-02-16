@@ -98,7 +98,8 @@ graph TD;
     
     specific -->ioc;
     specific -->payload;
-    specific -->ip-segment;
+    specific -->ip-segment&type;
+    specific -->cookie;
        
     squence -->attack-type;
     squence -->tools;
@@ -106,6 +107,10 @@ graph TD;
     statistic -->ip&time;
     statistic -->attack-type;
     statistic -->time;
+    
+    algorithm -->LDA;
+    algorithm -->isolation-forest;
+    algorithm -->graph;
     
  ```
 
