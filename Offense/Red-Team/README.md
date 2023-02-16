@@ -5,26 +5,31 @@
   - upload
 
 - Spingboot Actuator
-- Unauthorization Access
+- Cloud Service
 
 ### Vulnerability
-- SQL Injection of clickhouse
+- SQL Injection : clickhouse
 - Open-source Nday:
   - Fastjson
   - Log4j
   - Shiro
 - Third-party products Nday:
+- XSS : POST / DOM 
+- File upload : 
 
 ### API Pentest
 - sensitive APIs in js files
 - path brute-force : wordlists
 
-### open port
+### Open port
 - high-risk brute-force
 - sensitive ports
-- JRMP/JMX 
+  - Unauthorization Access
+  - Specific scene
+- JRMP/[JMX](https://www.anquanke.com/post/id/200682)/RMI 
 
-### cloud
-- 
+
+
+
 ## Reference
 - [RedTeam-Tools_github](https://github.com/A-poc/RedTeam-Tools)
