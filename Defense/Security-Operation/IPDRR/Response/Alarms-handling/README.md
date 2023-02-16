@@ -2,7 +2,7 @@
 
 
 
-## handling guide
+## Handling guide
 - Notification
   - Time to Response
 - Handling 
