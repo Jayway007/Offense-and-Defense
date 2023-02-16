@@ -1,5 +1,7 @@
 ## Real time process
 - black
 
-- white
-  - history baseline : new character
+- white baseline
+  - process has new net connection
+  - java process has cmdline
+  - 
