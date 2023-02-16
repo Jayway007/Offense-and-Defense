@@ -1,15 +1,18 @@
 ## Playbook
 
 ### Step by step
-- 1. Investigatation
-- 2. Block
-- 3. Forensic
-- 4. Recover
+- Investigatation
+- Block
+  - Network : unbind / ACL / iptables
+  - Application : WAF / RASP / business
+  - Host : islation / kill process / configure
+- Forensic
+- Recover
 
 ## Process
-- 1. record the timeline and evidence
-- 2. send to related personnel
-- 3. review and optimization
+- record the timeline and evidence
+- send to related personnel
+- review and optimization
 
 ## Analysis
 
