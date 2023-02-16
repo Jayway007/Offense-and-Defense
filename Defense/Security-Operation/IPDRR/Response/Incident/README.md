@@ -1,7 +1,9 @@
 ## Playbook
 
 ### Step by step
-
+- 1. Investigatation
+- 2. Block
+- 3. Forensic
 
 ## Analysis
 
