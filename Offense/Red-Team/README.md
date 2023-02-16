@@ -21,11 +21,11 @@
 - sensitive APIs in js files
 - path brute-force : wordlists
 
-### 4. Open port
+### 4. Open Port
 - high-risk brute-force
 - sensitive ports
   - Unauthorization Access
-  - Specific scene
+  - Specific scene : [IOT](https://cloud.tencent.com/developer/article/1776815)
 - JRMP/[JMX](https://www.anquanke.com/post/id/200682)/RMI 
 
 
