@@ -109,8 +109,9 @@ graph TD;
     statistic -->time;
     
     algorithm -->LDA;
+    algorithm -->Graph;
     algorithm -->isolation-forest;
-    algorithm -->graph;
+
     
  ```
 
