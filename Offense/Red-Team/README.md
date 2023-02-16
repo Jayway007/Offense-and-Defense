@@ -24,7 +24,7 @@
 ### 4. Open Port
 - high-risk brute-force
 - sensitive ports
-  - Unauthorization Access
+  - Unauthorization Access: Redis, Mongodb, Etcd, Rsync, Kafka, Zookeper, [Docker](https://askding.github.io/Kali/Exploit/Docker.html), Haddop
   - Specific scene : [IOT](https://cloud.tencent.com/developer/article/1776815)
 - JRMP/[JMX](https://www.anquanke.com/post/id/200682)/RMI 
 
