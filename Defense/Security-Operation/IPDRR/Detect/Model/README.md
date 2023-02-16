@@ -16,7 +16,7 @@
     - Type: expert experience / Threat Inteligence /
 
   - Joint Detect
-    - Type: logic / summary / sequence / attack chain /
+    - Type: logic / summary / sequence / attack chain / several ruels of same time&target / 
   
   - Automation Analysis
     - Type：assets character / shell trigger
