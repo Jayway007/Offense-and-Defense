@@ -1,4 +1,6 @@
-
+## Rule maintenance
+- Whitelists
+- payloads detection optimization
 
 ## Detection Models
 
