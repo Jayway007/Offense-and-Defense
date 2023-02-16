@@ -1,5 +1,5 @@
-##  Attack Experience
-### Misconfigure
+## Initial Access
+### 1. Misconfigure
 - Nginx config
   - files: config / history / codes / authorization /
   - upload
@@ -7,7 +7,7 @@
 - Spingboot Actuator
 - Cloud Service
 
-### Vulnerability
+### 2. Vulnerability
 - SQL Injection : clickhouse
 - Open-source Nday:
   - Fastjson
@@ -17,11 +17,11 @@
 - XSS : POST / DOM 
 - File upload : 
 
-### API Pentest
+### 3. API Pentest
 - sensitive APIs in js files
 - path brute-force : wordlists
 
-### Open port
+### 4. Open port
 - high-risk brute-force
 - sensitive ports
   - Unauthorization Access
@@ -29,7 +29,14 @@
 - JRMP/[JMX](https://www.anquanke.com/post/id/200682)/RMI 
 
 
+## Excetion
+- curl xxx/xx -o evil
+- 
 
+## Lateral move
+- trust relationship : ssh
+- portscan : ssh/redis/web
+- 
 
 ## Reference
 - [RedTeam-Tools_github](https://github.com/A-poc/RedTeam-Tools)
