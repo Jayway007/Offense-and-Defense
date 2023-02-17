@@ -5,18 +5,19 @@
 - supply chain :
 
 ## Execute:
-- run
-- cloud
-- link
+- commands
+- deploy
+- orchestration job
 
 ## Escape
 
 ## Credential Access
 - cloud token
+- Container API
 
 ## Lateral Movement
 - vertical : cloud platform / Kubernets
-- parallel ：container
+- parallel ：container / application
  
 
 ## Reference:
