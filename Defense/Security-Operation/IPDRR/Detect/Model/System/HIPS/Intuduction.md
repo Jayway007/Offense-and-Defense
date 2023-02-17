@@ -100,6 +100,11 @@
   - [Watchman](https://www.tecmint.com/watchman-monitor-file-changes-in-linux/) : an open source and cross-platform file watching service that watches files and records or performs actions when they change
   - [auditd] : Linux Audit system
 
+
+## Docker Detection
+
+
+
 ## Reference
 - [Linux HIDS agent Summary and User Status HOOK [1]](https://paper.seebug.org/1104/)  @Seebug
 - 
