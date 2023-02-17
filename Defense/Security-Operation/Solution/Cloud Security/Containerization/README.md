@@ -23,9 +23,11 @@
 
 
 ## Defense
-- Images Scanning
-- Runtime Security
-- 
+- Images Scanning : supply chain
+- Runtime Security : detection
+- CSPM
+- KSPM
+- DRIR
 
 
 ## Practice
