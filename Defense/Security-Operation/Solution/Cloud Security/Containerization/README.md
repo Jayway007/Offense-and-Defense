@@ -20,3 +20,14 @@
   - Deploy : misconfiguration
   - execution : Escape
   - Orchestration
+
+
+## Defense
+- Images Scanning
+- Runtime Security
+- 
+
+
+## Practice
+ - [Top20-docker-security-best-practices](https://blog.aquasec.com/docker-security-best-practices) @ Aqua
+
