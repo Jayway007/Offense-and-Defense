@@ -1,3 +1,8 @@
+# Definition
+ 
+
+
+
 ## SASE
   SASE (Secure Access Service Edge) is a cloud-based architecture resulting from the convergence of security and networking services for the purpose of protecting users, data, systems, and applications. It is an elimination of the older perimeter-based model of networking and security in favor of a cloud-based model that allows users to access data and systems securely from anywhere.
 
