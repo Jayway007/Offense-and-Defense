@@ -10,6 +10,8 @@
   - combine with operation system
 
 
-### 2. Coverage Check
+### 2. Configure rules
 
-### 3. Configure rules
+### 3. Coverage Check
+
+### 4. Update
