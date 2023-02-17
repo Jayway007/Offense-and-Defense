@@ -6,3 +6,12 @@
   Gateway can also be used in other contexts,such as [payment gateways](https://www.xendit.co/en/blog/what-is-payment-gateway/), which are used to process online transations, and messaging gateways, which are used to eschange messages between differant messaging systems. 
     
 - Router
+
+
+
+## Protocols：
+- DNS
+- ICMP
+- SSH
+- FTP
+- SSL
