@@ -1,5 +1,5 @@
 # Definition
- 
+ Cloud native security takes into consideration of unique characteristcs of cloud computing, such as distributed architecture, microservices, containerization, and dynamic environments.
 
 
 
