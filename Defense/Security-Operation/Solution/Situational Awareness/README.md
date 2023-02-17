@@ -1,0 +1,5 @@
+Situational awareness refers to the ability to perceive, process, and understand relevant information about one's environment, which can include physical surroundings, events, and other people. It involves being aware of what is happening around you, and understanding the potential implications of those events on your own situation or on the situation of others.
+
+Situational awareness is important for many different settings, including military operations, aviation, emergency response, and sports. It can also be important for everyday situations, such as driving or walking in a busy city. People with high levels of situational awareness are often able to make quick and accurate decisions, and can respond effectively to changing circumstances.
+
+To develop situational awareness, one must pay attention to their surroundings, anticipate potential changes, and constantly evaluate the situation. This can involve gathering information through observation, communication with others, and other means. Additionally, training and practice can help to improve situational awareness in different settings.
