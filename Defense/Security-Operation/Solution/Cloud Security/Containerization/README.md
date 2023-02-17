@@ -7,7 +7,7 @@
 
 
 ## Kubernetes:
- Kubernets is a container orchestration platform that automates the deployment, 
+ Kubernets is a container orchestration platform that automates the deployment, scaling and management of containerized applications. Kubernets manages the containers by creating and managing a set of abstractions, such as pods, services, and deployments, that provides a higher-level view of the containers.
 
 
 # Process
@@ -24,7 +24,7 @@
 
 ## Defense
 - Images Scanning : supply chain
-- Runtime Security : detection
+- Runtime Security : products / 
 - CSPM
 - KSPM
 - DRIR
