@@ -37,7 +37,9 @@ graph TD;
     
     host-->alarms;
     host-->process;
-    host-->history/cmds;
+    host-->history;
+    host-->file;
+    host-->network;
     
     
     network-->NDR;
