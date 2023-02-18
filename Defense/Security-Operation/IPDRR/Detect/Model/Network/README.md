@@ -36,3 +36,9 @@
 
 ## Log
 - VPN 
+
+
+## Problem
+- Capture complete fields of data
+- Trace the source
+- Mount of network data
