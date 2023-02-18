@@ -4,6 +4,9 @@
 - [Cases](#case)
 
 
+## Theory
+  Distinguish the differences between normal actions, suspicious actions and attacking actions.
+
 ## Classification
   - Business whitelist
     - Scene: unable to enumerate all attack scenes / unable to use experience / detect unknown attack scene
