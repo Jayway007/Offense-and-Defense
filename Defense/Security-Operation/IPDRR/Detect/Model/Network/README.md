@@ -7,7 +7,6 @@
   - command execute
   - infomation disclosure
   
-  
 - service
   - uncommon service or port
   - high-risk ports connecting
@@ -17,9 +16,10 @@
   - trojan activity
   - shellcode
   - non-standard protocol
-  - attack tools characters
+  - attack tools characters ： metasploit/nmap
   - C2 connect 
   - data theft
+  - scanning : multiple connect
   - dos
 
 - suspicious
