@@ -41,20 +41,6 @@
   - Joint alarms ——> SOAR handling
 
 
-### Tools
-
- ```mermaid
-graph TD;
-    Tools-->network;
-    Tools-->host;
-    Tools-->access;
-    Tools-->common;
-    
-    network-->suricata;
-
-    
-```
-
 ## Algorithms 
 - provenance graphs
   - [Provenance-based Intrusion Detection](https://tfjmp.org/slides/2020-winter.pdf)
