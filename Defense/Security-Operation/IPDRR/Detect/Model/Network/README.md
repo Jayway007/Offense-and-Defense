@@ -19,7 +19,7 @@
   - non-standard protocol
   - attack tools characters
   - C2 connect 
-  - data 
+  - data theft
   - dos
 
 - suspicious
