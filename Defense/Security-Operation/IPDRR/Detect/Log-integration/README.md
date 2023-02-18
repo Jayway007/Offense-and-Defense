@@ -28,7 +28,7 @@ graph TD;
     security-->application;
     
     host-->alarms;
-    host-->rt-access;
+    host-->process;
     host-->history/cmds;
     
     
@@ -39,6 +39,7 @@ graph TD;
     application-->WAF;
     application-->RASP;
     application-->fingerprint;
+    application-->web-logs;
     
 ```
 
