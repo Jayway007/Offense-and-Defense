@@ -38,5 +38,12 @@
 - portscan : ssh/redis/web
 - 
 
+
+## Tips
+- Knowledge the environment like a new-bie
+- Intranet assets : code hosting platform / management platform / 
+
+
+
 ## Reference
 - [RedTeam-Tools_github](https://github.com/A-poc/RedTeam-Tools)
