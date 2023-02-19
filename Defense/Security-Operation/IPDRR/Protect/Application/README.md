@@ -1,6 +1,5 @@
 ## Security Products
-- WAF
-- NGFW
+- WAF / NGFW
 - RASP
 
 ## Practice
