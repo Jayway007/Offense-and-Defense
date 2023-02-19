@@ -2,6 +2,14 @@
 - WAF / NGFW
 - RASP
 
+## Lifecycle
+- Deploy 
+  - coverage 
+- Operation
+  - detection
+  - storage
+  - whitelist
+  - notice
 
 ## Deploy
 - WAF
@@ -10,6 +18,8 @@
   - agent
   - database
   - notification
+
+
 
 ## Practice
 - Google
