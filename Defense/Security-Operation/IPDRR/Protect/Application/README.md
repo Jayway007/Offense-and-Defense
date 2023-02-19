@@ -10,6 +10,7 @@
   - storage
   - whitelist
   - notice
+  - validation
 
 ## Deploy
 - WAF
