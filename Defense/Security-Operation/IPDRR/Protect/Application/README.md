@@ -2,6 +2,15 @@
 - WAF / NGFW
 - RASP
 
+
+## Deploy
+- WAF
+- RASP
+  - master
+  - agent
+  - database
+  - notification
+
 ## Practice
 - Google
 - AWS
