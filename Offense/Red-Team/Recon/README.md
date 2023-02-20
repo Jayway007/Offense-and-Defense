@@ -2,8 +2,8 @@
 - OSINT
   - Organization & Business
   - Search Engine
-  - Code platform ： S3
-  - Threat Intelligence ： Shodan
+  - Code platform : S3
+  - Threat Intelligence : Shodan
   - Cloud service
 - Assets-Collection
   - IP & subdomains
