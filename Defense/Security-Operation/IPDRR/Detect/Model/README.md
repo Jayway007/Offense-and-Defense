@@ -8,6 +8,15 @@
   Distinguish the differences between normal actions, suspicious actions and attacking actions.
 
 ## Classification
+| classification  | Blacklist | Whitelist |
+| ------------- | ------------- | ------------- | 
+| Definition  | define the characters of attack actions  | define the normal actions, others are abnormal|
+| Advantages  | 1. precise | 1. unkown attacks |
+|   | 1. explainable | 2.few updates |
+| Disadvantages  | 1.False negative  | 1.False positive |
+|  | 2.professional experience | 2.Unexplainable and understandable |
+
+## Types
   - Business whitelist
     - Scene: unable to enumerate all attack scenes / unable to use experience / detect unknown attack scene
     - Types: Time seuence / unsupervised algorithm / 
@@ -22,7 +31,7 @@
     - Type: logic / summary / sequence / attack chain / several ruels of same time&target / 
   
   - Automation Analysis
-    - Type：assets character / shell trigger
+    - Type：assets character / external trigger API or shell
   
 
 ## Rules Develop
