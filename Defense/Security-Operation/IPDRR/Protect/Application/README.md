@@ -14,7 +14,7 @@
 
 ## Deploy
 - WAF
-  - reverse & bypass
+  - reverse & bypass(not block)
   - domain access
   - health monitor
   - 
