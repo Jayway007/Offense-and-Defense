@@ -24,16 +24,15 @@
 
 
 ## Response
-- SOAR: Score and block 
 - Target Analysis : target\type\time\weapon\ioc
-- Identify false positive : characters
-
+- SOAR: Score and auto-block 
+- Identify false positive & add to whitelists: characters
 
 ## Shortcoming
-- Detection ：lack of summary / joint / algorithm
-- OOB
-- XSS
+- Detection principle ：lack of summary / joint / algorithm
+- Attack types : OOB / XSS
 - Downgrade
+
 
 ## Practice
 - [WAF建设运营及AI应用实践](https://security.tencent.com/index.php/blog/msg/145) @Tencent
