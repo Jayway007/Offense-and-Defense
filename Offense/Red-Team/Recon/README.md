@@ -1,4 +1,7 @@
-# Summary
+## Tactic
+- Information Collection
+
+## Implements
 - OSINT
   - Organization & Business
   - Search Engine
