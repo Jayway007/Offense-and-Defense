@@ -78,7 +78,8 @@
 
 
 ## Windows
-
+- Registry
+- 
 
 ## Response
 - Security logs
