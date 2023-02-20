@@ -9,19 +9,33 @@
 
 ## Rule maintenance
 - Whitelists : manual & automation analysis
-- payloads detection optimization
+- payloads detection optimization : bypass
+- Nday / 0day hotfix
 
 
 ## Platform
-- WAF dashboard & search
+- WAF Summary dashboard
+- Log search
 - Monitor guesture
-- Summary
+
 
 ## Scenes
 - potential vulnerability or success attack : response
 - monitor guesture : top attacks number / type / source /
-- attack response
+- attacks block
+- identify targeted attack and group
 
+
+## Rules：
+- attack success : response characters / multiple requests but response differ
+- auto block and unblock : score
+- targeted or persistent attack
+- false positive : cookie/referer/deviceID/srcIP/single-type/
+- threat ioc : domain / IP
+- specific attack technique : brute-force
+- abnormal : probe availability or high CPU
+
+ 
 
 ## Response
 - Target Analysis : target\type\time\weapon\ioc
@@ -32,6 +46,7 @@
 - Detection principle ：lack of summary / joint / algorithm
 - Attack types : OOB / XSS
 - Downgrade
+- precise info : real_srcip
 
 
 ## Practice
