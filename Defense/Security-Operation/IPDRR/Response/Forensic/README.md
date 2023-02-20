@@ -86,3 +86,5 @@
 - 
 
 
+## Resources
+- [数字取证大合集](https://blue.y1ng.org/0xA_digital_forensics/#awesome-forensics)  @y1ng
