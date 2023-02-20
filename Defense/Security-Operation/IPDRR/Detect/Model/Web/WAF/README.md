@@ -49,6 +49,10 @@
 - Downgrade
 - precise info : real_srcip
 
+## Experience
+- crawler or CC block
+- oday defense
+
 
 ## Practice
 - [WAF建设运营及AI应用实践](https://security.tencent.com/index.php/blog/msg/145) @Tencent
