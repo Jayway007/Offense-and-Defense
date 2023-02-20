@@ -31,3 +31,4 @@
 
 ## Framework
 - [reconftw](https://github.com/six2dez/reconftw)  @six2dez
+- [chomp-scan](https://github.com/SolomonSklash/chomp-scan)  @SolomonSklash
