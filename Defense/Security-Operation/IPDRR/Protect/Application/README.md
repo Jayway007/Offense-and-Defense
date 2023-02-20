@@ -14,6 +14,7 @@
 
 ## Deploy
 - WAF
+  - reverse & bypass
 - RASP
   - master
   - agent
