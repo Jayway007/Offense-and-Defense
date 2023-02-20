@@ -69,6 +69,9 @@ bash<<<$(base64 -d<<<Y2F0IC9ldGMvcGFzc3dkIHwgZ3JlcCAzMw==) #base64
 
 
 
+## Tricks
+- Reame the shell as normal filename : ospatch.sh /  hotfix.sh
+
 ## Reference
 - [bypass-bash-restrictions_HackTricks](https://book.hacktricks.xyz/linux-hardening/bypass-bash-restrictions)
 
