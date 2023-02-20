@@ -9,7 +9,7 @@
 # Detection Type
 - Hook function
 - Context
-- 
+- Business Whitelist
 
 ## Scenes
 - vulnerability repair : hotfix
