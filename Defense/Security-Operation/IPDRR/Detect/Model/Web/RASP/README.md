@@ -9,11 +9,11 @@
 # Detection Type
 - Hook function
 - Context
-
+- 
 
 ## Scenes
 - vulnerability repair : hotfix
-- Detect webshell : memshell : character
+- Detect webshell : memshell : character ： classloader
 
 # Block
 - define rules
