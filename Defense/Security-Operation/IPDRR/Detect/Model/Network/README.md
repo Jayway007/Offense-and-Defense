@@ -4,7 +4,7 @@
 ### NDR
 - Web
   - classic exploit characters
-  - command execute
+  - command execute ?
   - infomation disclosure
   
 - service
