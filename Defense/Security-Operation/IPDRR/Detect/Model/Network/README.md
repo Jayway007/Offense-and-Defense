@@ -44,6 +44,9 @@
 - Mount of network data
 
 
-## Tools
+## Tools&Rules
 - suricata
+  - [open-source](https://rules.emergingthreats.net/open/suricata/rules/)  @emergingthreats
+  - [suricata-for-CVE](https://github.com/sudohyak/suricata-rules)  @sudohyak
 - snorts
+  - [open-source](https://rules.emergingthreats.net/open/snort-2.9.0/rules/) @emergingthreats
