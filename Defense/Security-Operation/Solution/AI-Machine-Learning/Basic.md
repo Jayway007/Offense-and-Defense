@@ -1,6 +1,14 @@
 ## Type
 - Supervised
+  - Classification
+  - Regression
 - Unsupervised
+  - Clustering
+  - Association
+  - Dimensionality reduction
+
+
+_[supervised-vs-unsupervised-learning]_(https://www.ibm.com/cloud/blog/supervised-vs-unsupervised-learning) @IBM
 
 
 ## Data Science
