@@ -33,7 +33,7 @@
   - history
   - security
   - message
-  - who  ----/var/log/utmp
+  - who  ----/var/run/utmp
   - audit
   
 - configure
