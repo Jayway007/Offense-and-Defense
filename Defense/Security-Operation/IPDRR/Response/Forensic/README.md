@@ -7,14 +7,15 @@
 1. OS info
 - cmds
   - shell
-  - 
+  
 - crontab
   - root/user
   - startup services
   - systemctl
   
 - user
-  - /etc/passwd
+  - shadow
+  - passwd
   - group
 
 - files
@@ -26,11 +27,14 @@
   - known_hosts
   
 - logs
-  - last
+  - last   ----/var/log/wtmp
+  - lastlog ----/var/log/lastlog
+  - lastb  ----/var/log/btmp
   - history
-  - audit
+  - security
   - message
-  - wtmp
+  - who  ----/var/log/utmp
+  - audit
   
 - configure
   - ~/.profile   [ATT&CK](https://github.com/Jayway007/Offense-and-Deffense/blob/main/Offense/Red-Team/Persistence/Event_Triggered_Execution.md#unix-shell-configuration-modification)
@@ -52,6 +56,8 @@
 
 3. process
   - cmdline
+  - CWD
+  - exe
   - process-tree  
   - lsof
   - top
