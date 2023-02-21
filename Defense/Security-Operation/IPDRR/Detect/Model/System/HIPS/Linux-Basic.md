@@ -32,4 +32,5 @@
 ## Tracing
 - [Linux tracing - kprobe, uprobe and tracepoint](https://terenceli.github.io/%E6%8A%80%E6%9C%AF/2020/08/05/tracing-basic) @terenceli
 
-
+## Reference
+- [linux-basics-for-the-aspiring-hacker](https://www.hackers-arise.com/post/2016/08/04/linux-basics-for-the-aspiring-hacker-part-1)
