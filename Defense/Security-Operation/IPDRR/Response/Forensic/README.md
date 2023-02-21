@@ -33,7 +33,7 @@
   - wtmp
   
 - configure
-  - ~/.profile
+  - ~/.profile   [ATT&CK](https://github.com/Jayway007/Offense-and-Deffense/blob/main/Offense/Red-Team/Persistence/Event_Triggered_Execution.md#unix-shell-configuration-modification)
   - ~/.bashrc
   - sudoer/SUID 
   
