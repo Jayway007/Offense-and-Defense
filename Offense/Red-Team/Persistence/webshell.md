@@ -1,5 +1,1 @@
-# Memshell
-## Princple
-
-## Types
 
