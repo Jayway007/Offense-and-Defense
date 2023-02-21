@@ -1,4 +1,4 @@
-## Practise
+## Practice
 - Abnormal model based on Semantics
   - [TF-IDF](https://monkeylearn.com/blog/what-is-tf-idf/)
   - [iForest](https://zhuanlan.zhihu.com/p/25040651)
