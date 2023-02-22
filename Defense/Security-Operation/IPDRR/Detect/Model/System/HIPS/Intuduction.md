@@ -15,9 +15,11 @@
    **Server** is usually used as an information center to deploy rules, collect data obtained from various security components, analyze the data, and determine whether host behavior is abnormal based on rules, and alarms and prompts the abnormal behaviors of the host.
    
 ## Functions
-- information collect: prccess/file(config/appinfo)/network/cmdline
-- security baseline check
-- attack detection monitor
+- Assets management
+- Vulnerability management
+- Benchmark check
+- Intrusion detection alarms
+- Analysis and Response
 
 
 
