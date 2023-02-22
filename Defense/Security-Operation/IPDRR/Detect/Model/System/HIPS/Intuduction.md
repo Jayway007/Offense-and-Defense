@@ -18,6 +18,7 @@
 - Assets management
 - Vulnerability management
 - Benchmark check
+- Host information Collection
 - Intrusion detection alarms
 - Analysis and Response
 
