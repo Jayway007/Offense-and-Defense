@@ -1,5 +1,5 @@
 
-## Solution
+## Overall
   To fight against HIDS monitoring generally starts from the following aspects:
   
 - Bypass monitor technology:
@@ -8,14 +8,15 @@
 - Bypass Detection model/rule:
   - Guess the strategy of the command alarm and bypass it
 
-
-##  Methods
-1. Bypass monitor technology
+## `Commands execute bypass`
+1. *Bypass monitor technology*
 - [反弹shell-逃逸基于execve的命令监控(上)](https://cloud.tencent.com/developer/article/1560417) @七夜
+- [恶意命令绕过与检测](https://l0n9w4y.cc/posts/18345/)  @l0n9w4y
 
-2. Bypass Detection model/rule:
+2. *Bypass Detection model/rule*
 
-## Command keywords bypass
+### Command keywords bypass
+Refer to : [bypass-bash-restrictions_HackTricks](https://book.hacktricks.xyz/linux-hardening/bypass-bash-restrictions)
 - Question mark
 ```
 /usr/bin/cur?
@@ -73,7 +74,7 @@ bash<<<$(base64 -d<<<Y2F0IC9ldGMvcGFzc3dkIHwgZ3JlcCAzMw==) #base64
 - Reame the shell as normal filename : ospatch.sh /  hotfix.sh
 
 ## Reference
-- [bypass-bash-restrictions_HackTricks](https://book.hacktricks.xyz/linux-hardening/bypass-bash-restrictions)
+
 
 
 
