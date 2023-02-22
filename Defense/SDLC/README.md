@@ -1,4 +1,3 @@
 
-| Topic         | Description   | Links         |
-| ------------- | ------------- | ------------- | 
-| Definition  | Definition | [what-is-sdlc](https://stackify.com/what-is-sdlc/)  |
+## Reference
+- [金融科技SDL安全设计checklist](https://mp.weixin.qq.com/s/MR3SmOLj834LK4RBMcZ2pg?)  @美的金融科技
