@@ -20,7 +20,8 @@
 - Benchmark check
 - Host information Collection
 - Intrusion detection alarms
-- Analysis and Response
+- Analysis and Response 
+- Extender script
 
 
 
