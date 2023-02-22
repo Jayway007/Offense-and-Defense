@@ -16,7 +16,7 @@
 2. *Bypass Detection model/rule*
 
 ### Command keywords bypass
-Refer to : [Command-Injection-Bypass](https://github.com/Jayway007/Offense-and-Deffense/tree/main/Offense/Pentest/Common-vul/Command-Injection)
+- Refer to : [Command-Injection-Bypass](https://github.com/Jayway007/Offense-and-Deffense/tree/main/Offense/Pentest/Common-vul/Command-Injection)
 
 
 
