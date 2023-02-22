@@ -1,4 +1,4 @@
-# [Event Triggered Execution](https://attack.mitre.org/techniques/T1546/)
+# Event Triggered Execution([T1546](https://attack.mitre.org/techniques/T1546/))
 
 ## 1.Unix Shell Configuration Modification
 
