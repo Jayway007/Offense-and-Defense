@@ -11,10 +11,16 @@
 - Qradar
 - Splunk
 
-
 ## `Process`
-
-
+- Information Collection
+  - Assets
+  - Logs
+- Data Cleaning & Storage
+- Analysis & Alarms
+  - SQL
+  - Python
+- Dashboard & Display
+- Response
 
 ## `Reference`
 - [security information and event management (SIEM)](https://www.techtarget.com/searchsecurity/definition/security-information-and-event-management-SIEM)  @techtarget
