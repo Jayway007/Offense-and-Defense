@@ -12,10 +12,7 @@
 - Splunk
 
 ## `Process`
-- Information Collection
-  - Assets
-  - Logs
-- Data Cleaning & Storage
+- [Log Intergration](https://github.com/Jayway007/Offense-and-Deffense/edit/main/Defense/Security-Operation/Solution/SIEM/Log-Intergration.md)
 - Analysis & Alarms
   - SQL
   - Python
