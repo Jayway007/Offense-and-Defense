@@ -19,6 +19,13 @@ Fluentd is designed to be a lightweight and flexible solution for collecting and
 
 
 
+## `Process`
+- Log Collection : syslog, filebeat, logstash, flume
+  - Assets
+  - Logs
+- Log Handling : Kafka, MQ, Redis
+- Log Storage : Mysql, bucket, Elasticsearch, Drive
+
 ## Type
  ```mermaid
 graph TD;
