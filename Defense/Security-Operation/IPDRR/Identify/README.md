@@ -1,7 +1,19 @@
-Attack surface Management 
+## Attack surface Management 
+- Cloud Security
+- Infrastructure 
+- Application Security : exposure, vulnerability, 
+- Network Security
+- Phishing
+- Supply
+- System Security
+- Inner ghost
+- IAM
+- Business Risk Control
 
 
-Identify:
+Threat -- Identify -- Detection -- Response -- Protect(Solution)
+
+## `Identify`
  - public-network open-port
  - web vulnerability
    - third party application
@@ -10,3 +22,5 @@ Identify:
    - ACL
  - cloud misconfiguration
  - supply chain
+ 
+ 
