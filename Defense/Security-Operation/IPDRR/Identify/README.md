@@ -11,7 +11,7 @@
 - Business Risk Control
 
 
-Threat -- Identify -- Detection -- Response -- Protect(Solution)
+Threat -- Identify -- Protect(Solution) -- Detection -- Response 
 
 ## `Identify`
  - public-network open-port
