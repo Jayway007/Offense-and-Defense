@@ -2,8 +2,8 @@
 - Collection
 - Parse and Search
 
-
-## Linux 
+# Type
+## `Linux`
 1. OS info
 - cmds
   - shell
@@ -83,13 +83,21 @@
   - root-kit
 
 
-## Windows
-- Registry
-- 
-
-## Response
-- Security logs
-- 
+## `Windows`
+- Login log
+- Event log
+  - File open
+  - Operation
+  - Registery
+- Application log
+- File
+  - Registry
+  - Delete Recovery
+- process
+- network
+- command history
+- Memery
+  - Dump
 
 
 ## Resources
