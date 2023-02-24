@@ -98,6 +98,7 @@
 - command history
 - Memery
   - Dump
+  - Rootkit
 
 
 ## Resources
