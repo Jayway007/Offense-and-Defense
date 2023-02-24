@@ -52,6 +52,10 @@
 - JRMP/[JMX](https://www.anquanke.com/post/id/200682)/RMI 
 
 
+### 5. Bypass
+- XFF bypass subdomain ACL whitelist : reverse proxy : localhost 
+- 
+
 ## `Resources`
 - [企业级钓鱼演练平台搭建](https://xz.aliyun.com/t/11898) @xianzhi
 
