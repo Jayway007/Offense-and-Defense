@@ -7,7 +7,7 @@
   - .bash_history
   - configure
     - /WEB-INF
-  - Ciphertext
+  - ciphertext
     - reverse and decrypt
   - private key
     - scenes : login
