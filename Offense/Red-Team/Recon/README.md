@@ -22,6 +22,7 @@
   - Path
   - Endpoint
     - [GAP-Burp-Extension](https://github.com/xnl-h4ck3r/GAP-Burp-Extension)
+    - potential : guess / bruteforce
   - Param
 - Vulcan
   - Universal Scanner
