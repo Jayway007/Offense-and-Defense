@@ -1,7 +1,12 @@
 
 ## Open-source HIPS
-- [Elkeid](https://github.com/bytedance/Elkeid) @ByteDance
-- [ehids](https://github.com/ehids/ehids-agent) @Meituan
+
+| Author  | Discription | Link
+| ------------- | ------------- | ------------- |
+| ByteDance | Elkeid is an open source solution that can meet the security requirements of various workloads such as hosts, containers and K8s, and serverless. It is derived from ByteDance's internal best practices.  | https://github.com/bytedance/Elkeid |
+| OSSEC | OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response. | https://github.com/ossec/ossec-hids
+| CF4FN  | A Linux Host-based Intrusion Detection System based on eBPF.  | https://github.com/ehids/ehids-agent |
+
 
 
 ## Resource
