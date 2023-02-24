@@ -1,3 +1,6 @@
+# Point:
+*Loop Attack* ： Based on the new environment to redirect, discover and collection, finding new weakness to transfer to the next one
+
 - Discovery
   - SSH
     - known_hosts: logged
@@ -15,6 +18,6 @@
     
 - service exploit
   - Brute force : SSH, FTP, Mysql
-  - Unauthorization Access : Redis, Mongodb, Etcd, Rsync, Kafka, Zookeper, Docker, Haddop
+  - Unauthorization Access : Redis, Mongodb, Etcd, Rsync, Kafka, Zookeper, Docker, Hadoop
   - other netstat information
   
