@@ -1,6 +1,6 @@
 ## Deep
 - The design and implement :  read open-source project
-- The underlying knowledge ： Linux
+- The underlying knowledge : Linux
 - 
 
 ## Reference:
