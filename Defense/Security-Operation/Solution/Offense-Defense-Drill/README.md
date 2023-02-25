@@ -12,14 +12,17 @@
 ## Aim
 - Red Team
   - get sensitive / secret information
-  - hide the attack history : tunnel / C2
-    - Reverse detection agent
-
+  - hide the attack history : tunnel / C2 
 
 - Blue Team
   - Detect and trace the attack path
   - Block the attack within TTR
 
+## Process
+- Reverse detection agent
+  - Rules
+  - configure
+  - blind / stop / fake alarm
 
 
 ## Time
