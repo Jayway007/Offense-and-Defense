@@ -21,4 +21,4 @@
 
 ## Time
 - short-term : 1 month
-- long- 
+- long-term : half an year
