@@ -8,6 +8,7 @@
       - authorized_keys
       - id_rsa
   - .bash_history
+    - plaintext password
   - configure
     - /WEB-INF
   - ciphertext
@@ -18,6 +19,7 @@
     
 - service exploit
   - Brute force : SSH, FTP, Mysql
-  - Unauthorization Access : Redis, Mongodb, Etcd, Rsync, Kafka, Zookeper, Docker, Hadoop
+  - Unauthorization Access : Redis, Mongodb, Etcd, Rsync, Kafka, Zookeper, Docker, Hadoop, NFS
+    - socket coding : automation write ssh key by redis
   - other netstat information
   
