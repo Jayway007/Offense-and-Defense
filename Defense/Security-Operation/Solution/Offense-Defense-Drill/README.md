@@ -13,6 +13,9 @@
 - Red Team
   - get sensitive / secret information
   - hide the attack history : tunnel / C2
+    - Reverse detection agent
+
+
 - Blue Team
   - Detect and trace the attack path
   - Block the attack within TTR
