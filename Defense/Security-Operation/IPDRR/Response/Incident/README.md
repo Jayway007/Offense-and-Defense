@@ -3,6 +3,7 @@
 ## Playbook
 ### Step by step
 - Investigatation
+  - cmd used to analyze : zgrep
 - Block
   - Network : unbind / ACL / iptables
   - Application : WAF / RASP / business
