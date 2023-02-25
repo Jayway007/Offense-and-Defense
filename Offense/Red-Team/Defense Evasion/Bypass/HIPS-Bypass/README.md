@@ -19,9 +19,15 @@
 - Refer to : [Command-Injection-Bypass](https://github.com/Jayway007/Offense-and-Deffense/tree/main/Offense/Pentest/Common-vul/Command-Injection)
 
 
+## reverse Agent
+- vulnerability
+- rules
+  - paths
+
 
 ## Tricks
 - Reame the shell as normal filename : ospatch.sh /  hotfix.sh
+
 
 ## Reference
 
