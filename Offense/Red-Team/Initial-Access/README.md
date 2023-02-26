@@ -4,6 +4,7 @@
   - Local install and debug
   - Reverse engineering  
   - Nday exploit
+    - Re-development
   
 - Malicious Code Injection
   - Dependency pollution : upm, pip
