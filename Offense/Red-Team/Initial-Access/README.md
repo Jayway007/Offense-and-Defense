@@ -30,6 +30,8 @@
 
 - Spingboot Actuator
 - Cloud Service
+- Other
+  - bak, txt
 
 ### 2. Vulnerability
 - SQL Injection : [clickhouse](https://blog.deteact.com/yandex-clickhouse-injection/)
