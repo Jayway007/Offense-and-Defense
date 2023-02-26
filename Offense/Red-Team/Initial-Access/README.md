@@ -54,7 +54,7 @@
 
 ### 5. Bypass
 - XFF bypass subdomain ACL whitelist : reverse proxy : localhost 
-- 
+- office network whitelist IP 
 
 ## `Resources`
 - [企业级钓鱼演练平台搭建](https://xz.aliyun.com/t/11898) @xianzhi
