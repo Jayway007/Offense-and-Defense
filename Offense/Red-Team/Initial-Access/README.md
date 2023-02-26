@@ -25,13 +25,14 @@
 ## `Experience`
 ### 1. Misconfigure
 - Nginx config
-  - files: config / history / codes / authorization /
+  - files: config / history / codes / authorization
   - upload
 
 - Spingboot Actuator
 - Cloud Service
 - Other
   - bak, txt
+  - dadabase file
 
 ### 2. Vulnerability
 - SQL Injection : [clickhouse](https://blog.deteact.com/yandex-clickhouse-injection/)
