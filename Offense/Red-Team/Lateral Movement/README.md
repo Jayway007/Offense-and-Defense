@@ -18,6 +18,7 @@
     
     
 - service exploit
+  - Weak Password
   - Brute force : SSH, FTP, Mysql
   - Unauthorization Access : Redis, Mongodb, Etcd, Rsync, Kafka, Zookeper, Docker, Hadoop, NFS
     - socket coding : automation write ssh key by redis
