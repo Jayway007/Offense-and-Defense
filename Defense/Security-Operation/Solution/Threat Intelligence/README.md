@@ -1,12 +1,23 @@
-# Definition
+# `Definition`
 - TTP
 - APT
 
 
-# Process
+# `Process`
 - production
 - practice
 
+# `Type`
+- MRTI/PRTI
+- Assets
+- vulnerability
+  - CWE, POC, EXP, CPE
+- TTPs
+- Incidents
+
+## `Usage`
+- Incident Response
+- Security Operation
 
 
 ## `CTI Resouces`
