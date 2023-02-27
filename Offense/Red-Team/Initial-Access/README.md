@@ -13,7 +13,7 @@
   - Update : hotfix
 
 - Tools Injection
-  - Client : 
+  - Client : Xshell
   
 - Trust Relationship
   - Cloud
@@ -41,6 +41,10 @@
   - Log4j
   - Shiro
 - Third-party products Nday:
+  - Yongyou
+  - Jypter
+  - CMS
+  - VPN command injection: ../
 - XSS : POST / DOM 
 - File upload : 
 
@@ -49,7 +53,7 @@
 - path brute-force : wordlists
 
 ### 4. Open Port
-- high-risk brute-force
+- password brute-force: weak password
 - sensitive ports
   - Unauthorization Access: Redis, Mongodb, Etcd, Rsync, Kafka, Zookeper, [Docker](https://askding.github.io/Kali/Exploit/Docker.html), Haddop
   - Specific scene : [IOT](https://cloud.tencent.com/developer/article/1776815)
