@@ -14,10 +14,7 @@
   - Characters
 
 ## `Security Testing`
-- DAST
-- SAST
-- IAST
-- SCA
+
 
 ## `Security Deploy`
 - Benchmark
