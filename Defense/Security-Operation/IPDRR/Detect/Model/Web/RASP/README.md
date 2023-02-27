@@ -21,7 +21,8 @@
 | Type | Detect Principle | Hook function | Bypass |
 | ------------- | ------------- | ------------- |  ------------- |
 | SQL Injection | 1. request parameter, mybatis: $,[libjection](https://github.com/libinjection/libinjection) to lexical analysis   2. hook SQL excute function | Statement.execute,Preparestatement,mybatis| specific type not monitor: restful, json, XML or origin |
-| Command Injection  | hook and detect: &\|<>`; | Runtime.getRuntime.exec, ProcessImpl.start | Same as blacklist |
+| Cross Site Injection | [libjection](https://github.com/libinjection/libinjection) token handling and detect logic | Tag, Attrite key, value | Tab, Javascript |
+| Command Injection  | hook String like: &\|<>`; and lexical analysis | Runtime.getRuntime.exec, ProcessImpl.start | Same as blacklist |
 | XML External Entity Injection | 1. hook SystemId: gopher, file, http, ftp, jar 2. compare with !ENTITY |   |  |
 | Unsecure Desirialization | hook and get target class, if exists in blacklist: CommonCollections | ObjectInputStream.resolveClass | |
 | Expression Injection | hook and get target class, if exists in blacklist:Runtime, Shutdown | OgnlRuntime.callConstructor | |
