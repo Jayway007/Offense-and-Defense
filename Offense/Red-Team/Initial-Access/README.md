@@ -7,7 +7,7 @@
     - Re-development
   
 - Malicious Code Injection
-  - Dependency pollution : upm, pip
+  - Dependency pollution : npm, pip
   - Attack code platform / images 
   - Deployment
   - Update : hotfix
