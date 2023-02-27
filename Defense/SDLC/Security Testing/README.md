@@ -1,14 +1,14 @@
 ## DAST
 ## SAST
 ## IAST
-### Flow-based
+### 1.Flow-based
 - browser/client proxy
 - traffic mirroring
   - Nginx: proxy pass
   - WAF
 
 
-### Stack-based
+### 2.Stack-based
 - active
   - hook dangerous function and send check payload
 
