@@ -3,7 +3,7 @@
   - [TF-IDF](https://monkeylearn.com/blog/what-is-tf-idf/)
   - [iForest](https://zhuanlan.zhihu.com/p/25040651)
   - [LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-  - 图数据库 exception
+  - 图数据库  [graph-powered](https://www.tigergraph.com.cn/)
   - BERT
   
 ## Resource
