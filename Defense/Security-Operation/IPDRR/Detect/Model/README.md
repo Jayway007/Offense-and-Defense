@@ -5,7 +5,9 @@
 
 
 ## Theory
-  Distinguish the differences between normal actions, suspicious actions and attacking actions.
+-  Distinguish the differences between normal actions, suspicious actions, attacking actions
+-  Realize experts experience with rules, analyze and handle accident automatically
+-  
 
 ## Classification
 | classification  | Blacklist | Whitelist |
