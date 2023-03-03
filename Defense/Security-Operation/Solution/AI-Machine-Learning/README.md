@@ -1,3 +1,7 @@
+## Normal Usages
+- [Analysis on Stock Prices using Natural Language Processing](https://medium.com/nerd-for-tech/wallstreetbets-sentiment-analysis-on-stock-prices-using-natural-language-processing-ed1e9e109a37)
+
+
 ## Practice
 - Abnormal model based on Semantics
   - [TF-IDF](https://monkeylearn.com/blog/what-is-tf-idf/)
