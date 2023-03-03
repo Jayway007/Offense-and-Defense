@@ -5,7 +5,7 @@
 
 
 ## Theory
--  Distinguish the differences between normal actions, suspicious actions, attacking actions
+-  Deep into scenes, extract the characteristic, distinguish the different between normal, suspicious, attacking actions
 -  Realize experts experience with rules, analyze and handle accident automatically
 -  
 
