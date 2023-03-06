@@ -29,6 +29,13 @@
 | /dev/tty | teletype : virtual console  |
 | /dev/pty| pseudo : remote login ternimal shell |
 
+
+## Process
+ Process is a running program. Every process is created by fork() syscall.
+- process tree
+  - command: pstree
+  - parent /children /ancestor process
+
 ## Tracing
 - [Linux tracing - kprobe, uprobe and tracepoint](https://terenceli.github.io/%E6%8A%80%E6%9C%AF/2020/08/05/tracing-basic) @terenceli
 
