@@ -51,15 +51,19 @@
 #### 1.2 Monitoring methods 
   Process monitoring usually use hook technology, roughly divided into two types：
 - _Application-level(Ring3)_ : simple but easy be bypassed
-  -  hijack libc library
+  -  Hijack glibc library
   -  LD_preload
 
 
 - _Kernel-level(Ring0/Ring1)_ :  complex and may cause compatibility problems, kernel may panic but cannot be bypassed in principle
   - Netlink Connector
-  - Systemcall
-  - ebpf
+  - Audit
+  - [Systemcall](https://mp.weixin.qq.com/s/ntE5FNM8UaXQFC5l4iKUUw)  @驭龙
+  - Ebpf
   
+- referer
+  - [Linux 入侵检测中的进程创建监控](https://www.freebuf.com/column/208928.html)
+
 ### Detection rules
 
 
