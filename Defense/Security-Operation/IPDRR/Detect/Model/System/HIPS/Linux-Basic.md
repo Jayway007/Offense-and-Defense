@@ -1,14 +1,14 @@
-## Summary
+## `Summary`
 - Design thinking
 - Directory
 - 
 
-## Design thinking
+## `Design thinking`
  - _Everything is file_ : 
  
   File can be understood as super class, derive class included common file, device, network socket, process and pipe.The best benefit is you can use API of file to handle all thse, such as read, write and close.
 
-## Directory
+## `Directory`
 ### /proc directory
   Proc is a vrtual file system, providing a interface pointing to kernel data struct with a format of system file directory. With it we can check and modify system property.
    Generally it contains files and directories as follows:
@@ -29,15 +29,20 @@
 | /dev/tty | teletype : virtual console  |
 | /dev/pty| pseudo : remote login ternimal shell |
 
+## `Command`
+### File
+ Linux system limites different users to access the same file. We can use ll or ls -l to check the file owner and attribute.
+- chown : modify the owner
+- chmod : modify the privilege
 
-## Process
+## `Process`
  Process is a running program. Every process is created by fork() syscall.
 - process tree
   - command: pstree
   - parent /children /ancestor process
 
-## Tracing
+## `Tracing`
 - [Linux tracing - kprobe, uprobe and tracepoint](https://terenceli.github.io/%E6%8A%80%E6%9C%AF/2020/08/05/tracing-basic) @terenceli
 
-## Reference
+## `Reference`
 - [linux-basics-for-the-aspiring-hacker](https://www.hackers-arise.com/post/2016/08/04/linux-basics-for-the-aspiring-hacker-part-1)
