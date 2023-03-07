@@ -11,3 +11,7 @@ The adversary is trying to gain higher-level permissions.
 ### 3.Bypass User Account Control(UAC)
 
 ## [Event_Triggered_Execution](https://github.com/Jayway007/Offense-and-Deffense/blob/main/Offense/Red-Team/Persistence/Event_Triggered_Execution.md)
+
+
+- Kernel Exploit
+- [Next-Generation Linux Kernel Exploit Suggester](https://github.com/jondonas/linux-exploit-suggester-2)
