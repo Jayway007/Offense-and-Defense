@@ -18,6 +18,7 @@ Assets -- Identify(Threats) -- Detection -- Response -- Protect(Solution)
 - Inner ghost
 - IAM
 - Business Risk Control
+- Near source Attack
 
 
 
