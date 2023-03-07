@@ -1,3 +1,7 @@
+## Type
+- automatic alarm handling
+
+
 ## Practice
 - WAF：IP Block
 - RASP ：block RCE / file access / oubound domain
