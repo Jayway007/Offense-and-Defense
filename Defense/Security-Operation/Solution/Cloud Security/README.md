@@ -1,8 +1,7 @@
 # Definition
  Cloud native security takes into consideration of unique characteristcs of cloud computing, such as distributed architecture, microservices, containerization, and dynamic environments.
 
-
-
+# Defense
 ## `SASE`
   SASE (Secure Access Service Edge) is a cloud-based architecture resulting from the convergence of security and networking services for the purpose of protecting users, data, systems, and applications. It is an elimination of the older perimeter-based model of networking and security in favor of a cloud-based model that allows users to access data and systems securely from anywhere.
 
@@ -18,6 +17,12 @@
 - [What is SSPM](https://www.netskope.com/security-defined/what-is-sspm)
 ![functionality](https://www.netskope.com/wp-content/uploads/2021/09/SSPM-Key-functionality.jpg)
 
+ # Offense
+ - Recon
+ - Initial Access
+ - Cloud Service Exploit
+
+[Cloud Matric of ATT&CK](https://attack.mitre.org/matrices/enterprise/cloud/)
 
 ## Resources
 | Author | Description | Resource URL |
