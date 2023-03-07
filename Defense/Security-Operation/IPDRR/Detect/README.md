@@ -1,5 +1,7 @@
 ## Definition
-The Detect Function defines the appropriate activities to identify the occurrence of a cybersecurity event. The Detect Function enables timely discovery of cybersecurity events.
+ The Detect Function defines the appropriate activities to identify the occurrence of a cybersecurity event. The Detect Function enables timely discovery of cybersecurity events.
+
+ Core funtions include : implementing continuous monitoring cybersecurity events, ensuring anomalies are detected, understanding the potencial impact and verify the effectivenesss of ptotective measures.
 
 ## Thought
 - Key: 安全的核心：可信
