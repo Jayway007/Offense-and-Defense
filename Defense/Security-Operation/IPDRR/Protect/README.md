@@ -1,6 +1,6 @@
 ## Definition
   The Protect Function outlines appropriate safeguards to ensure delivery of critical infrastructure services. The Protect Function supports the ability to limit or contain the impact of a potential cybersecurity event.
-## Defense product
+## `Defense product`
 ### 1. Deploy
 - NIPS
 - WAF
