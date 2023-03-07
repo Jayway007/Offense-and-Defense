@@ -2,7 +2,6 @@
 ## Defense product
 ### 1. Deploy
 - NIPS
-- 
 - WAF
   - reverse proxy
   - side 
