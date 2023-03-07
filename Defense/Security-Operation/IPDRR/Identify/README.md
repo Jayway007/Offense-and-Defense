@@ -27,6 +27,8 @@ Assets -- Identify(Threats) -- Detection -- Response -- Protect(Solution)
  - trust-relationship
    - ACL
  - cloud misconfiguration
+
+
 ### Application Security
   - Third party application
     - Identify the fingerprints and versions, to identify if have CVEs
