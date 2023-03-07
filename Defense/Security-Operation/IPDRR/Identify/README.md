@@ -9,7 +9,7 @@ Assets -- Identify(Threats) -- Detection -- Response -- Protect(Solution)
 ## Attack surface Management 
 - Cloud Security
 - Infrastructure 
-- Application Security : exposure, vulnerability, 
+- Application Security 
 - Network Security
 - Phishing
 - Supply Chain
@@ -21,13 +21,18 @@ Assets -- Identify(Threats) -- Detection -- Response -- Protect(Solution)
 
 
 ## `Identify Risk`
+### Network Security
  - public-network open-port
- - web vulnerability
-   - third party application
-   - miconfiguration: privilege
  - trust-relationship
    - ACL
  - cloud misconfiguration
- - supply chain
+### Application Security
+  - Third party application
+    - Identify the fingerprints and versions, to identify if have CVEs
+  - Miconfiguration: privilege
+  - Explosion: public 
+  - Vulneability Assessment
+
+### supply chain
  
  
