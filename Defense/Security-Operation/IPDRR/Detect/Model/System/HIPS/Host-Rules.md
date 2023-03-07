@@ -33,4 +33,4 @@
 
 ## Referer
 - [如何利用AgentSmith-HIDS检测反弹shell](https://github.com/EBWi11/AgentSmith-HIDS/blob/master/doc/How-to-use-AgentSmith-HIDS-to-detect-reverse-shell/%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8AgentSmith-HIDS%E6%A3%80%E6%B5%8B%E5%8F%8D%E5%BC%B9shell.md)
-
+- [进程链关联及检测调研](https://www.cnblogs.com/Mang0/p/13878654.html)  @Mango
