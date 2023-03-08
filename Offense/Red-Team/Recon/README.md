@@ -5,6 +5,7 @@
 - OSINT
   - Organization & Business
   - Search Engine
+    - Google Dorking: AEM: inurl:'/content/dam' ext:txt
   - Code platform : S3
   - Threat Intelligence : Shodan
   - Cloud service
