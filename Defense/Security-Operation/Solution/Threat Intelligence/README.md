@@ -19,8 +19,9 @@
 - Incident Response
 - Security Operation
 
-## Reference
+## Malware Analysis
 - [Automating Malware Analysis Operations (MAOps)](https://blogs.jpcert.or.jp/en/2023/01/cloud_malware_analysis.html)
+- [Sliver C2 Implant Analysis](https://michaelkoczwara.medium.com/sliver-c2-implant-analysis-62773928097f)
 
 ## `CTI Resouces`
 
