@@ -35,6 +35,10 @@
 - chown : modify the owner
 - chmod : modify the privilege
 
+### Reference
+- [Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
+
+
 ## `Process`
  Process is a running program. Every process is created by fork() syscall.
 - process tree
