@@ -17,13 +17,6 @@
 - [What is SSPM](https://www.netskope.com/security-defined/what-is-sspm)
 ![functionality](https://www.netskope.com/wp-content/uploads/2021/09/SSPM-Key-functionality.jpg)
 
- # Offense
- - Recon
- - Initial Access
- - Cloud Service Exploit
-
-[Cloud Matric of ATT&CK](https://attack.mitre.org/matrices/enterprise/cloud/)
-
 ## Resources
 | Author | Description | Resource URL |
 | --- | --- | --- |
