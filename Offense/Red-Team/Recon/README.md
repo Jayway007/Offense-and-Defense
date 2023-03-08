@@ -12,6 +12,7 @@
 - Assets-Collection
   - IP & subdomains
     - IP: C subnet
+    - [Advanced subdomain reconnaissance: How to enhance an ethical hacker's EASM](https://labs.detectify.com/2023/01/13/advanced-subdomain-reconnaissance-how-to-enhance-an-ethical-hackers-easm/)
   - Port & Service
     - nmap param
   - certs
