@@ -7,7 +7,13 @@ The adversary is trying to gain higher-level permissions.
    find / -perm -u=s -type f 2>/dev/null
   ```
   - [谈一谈Linux与suid提权](https://www.leavesongs.com/PENETRATION/linux-suid-privilege-escalation.html)  @Phith0n
+
+
 ### 2.Sudo
+- Sudo
+  Sudo (su “do”) allows a system administrator to delegate authority to give certain users (or groups of users) the ability to run some (or all) commands as root or another user while providing an audit trail of the commands and their arguments.
+  
+  - [滥用SUDO提权](https://cloud.tencent.com/developer/article/1708368)
 - Soft link
   Linux chown(change owner) is a command used to set the owner of a file.
   - Low privilege user can execute a script as root, and the script uses chown command to modify the privilege of another file, which can be modified by low-privilege user.So that the user can delete the file and create a same-name file, which link to a high-privilege user, such as /etc/passwd.
