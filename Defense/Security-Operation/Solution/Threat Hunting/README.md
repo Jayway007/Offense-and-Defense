@@ -15,6 +15,14 @@
   - [Threat detection and investigation with system-level provenance graphs](https://www.sciencedirect.com/science/article/pii/S0167404821001061)
   - [Provenance Mining：终端溯源数据挖掘与威胁狩猎](https://mp.weixin.qq.com/s/Te7c3HvCcxX3ci9HTn8lEQ) @绿盟
 
+## Showcases
+- Threat Hunting with Security Logs
+
+
+![Threat Hunting with Security Logs](https://pbs.twimg.com/media/FkpIhKhVEAA47mw?format=jpg&name=large)
+
+
+
 ## `Reference`
 - [威胁狩猎](https://www.zhihu.com/question/519566237)  @猪猪侠
 - [威胁狩猎概念科普](https://mp.weixin.qq.com/s/Yg0kpWNYQVk0iQ1oIhC-GQ)  @rayh4c
