@@ -1,9 +1,7 @@
 # Offense-and-Deffense
-Concluding everything about Offense and Defense technique
-## Offense
-## Defense
+Including everything about Offense and Defense technique
 
 ## Principle
 - Practical to cases
-- Deep to Detail
-- Ask more questions
+- Dive deep to detail
+- Ask more questions to examine: What, Why, How
