@@ -6,6 +6,7 @@
 - 社区发现: [Community Detection](https://towardsdatascience.com/community-detection-algorithms-9bd8951e7dae)
 - 图算法
 - VGG: converting binary files into color images can emphasize the image features more significantly
+  - [一文读懂VGG网络](https://zhuanlan.zhihu.com/p/41423739)
   - [基于VGGNet的恶意代码变种分类](http://www.joca.cn/CN/10.11772/j.issn.1001-9081.2019050953?WebShieldDRSessionVerify=2Rng1AWxPzkRxQzqWmOR)
 
 ## Cases:
