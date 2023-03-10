@@ -1,5 +1,17 @@
+## Purpose
+- How effective are my security controls?
+- How quickly can I assess the relevance of threat intelligence or my exposure to a likely attack?
+- How well do I stop data leakage and protect data integrity?
+- How can I simplify and standardize my security stack?
+- What evidence can I provide with key security metrics for my executives?
+
+
+
 ## Solution
 - BAS
+
+## Product
+- [离朱 安全验证平台](https://www.zhiqiansec.com/products.html)  @zhiqiansec
 
 
 ## Practice：
