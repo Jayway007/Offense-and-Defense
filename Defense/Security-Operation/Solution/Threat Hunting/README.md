@@ -10,11 +10,11 @@
 
 
 ## Solution
-- provenance graphs(溯源数据图)
+- Provenance Graphs(溯源数据图)
   - [Provenance-based Intrusion Detection](https://tfjmp.org/slides/2020-winter.pdf)
   - [Threat detection and investigation with system-level provenance graphs](https://www.sciencedirect.com/science/article/pii/S0167404821001061)
-  - [Provenance Mining：终端溯源数据挖掘与威胁狩猎](https://mp.weixin.qq.com/s/Te7c3HvCcxX3ci9HTn8lEQ) @绿盟
-  - [APT-KGL:基于威胁知识和异构溯源图学习的智能APT检测系统](https://mp.weixin.qq.com/s/mUPfCI_5-YjsbnO7990SXA)
+  - [Provenance Mining：终端溯源数据挖掘与威胁狩猎](https://mp.weixin.qq.com/s/Te7c3HvCcxX3ci9HTn8lEQ)  @绿盟
+  - [APT-KGL:基于威胁知识和异构溯源图学习的智能APT检测系统](https://mp.weixin.qq.com/s/mUPfCI_5-YjsbnO7990SXA)  @安全学术圈
 
 ## Showcases
 - Threat Hunting with Security Logs
