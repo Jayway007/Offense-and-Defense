@@ -1,27 +1,3 @@
-## `Supply`
-- Third Party Exploit
-  - [Code Auditing](https://github.com/Jayway007/Offense-and-Deffense/tree/main/Offense/Pentest/Code-Audit)
-  - Local install and debug
-  - Reverse engineering  
-  - Nday exploit
-    - Re-development
-  
-- Malicious Code Injection
-  - Dependency pollution : npm, pip
-  - Attack code platform / images 
-  - Deployment
-  - Update : hotfix
-
-- Tools Injection
-  - Client : Xshell
-  
-- Trust Relationship
-  - Cloud
-  - Subsidiary
-  - supplier
-
-
-
 ## `Experience`
 ### 1. Misconfigure
 - Nginx config
@@ -57,7 +33,7 @@
   - Unauthorization Access: Redis, Mongodb, Etcd, Rsync, Kafka, Zookeper, [Docker](https://askding.github.io/Kali/Exploit/Docker.html), Haddop
   - Specific scene : [IOT](https://cloud.tencent.com/developer/article/1776815)
 - JRMP/[JMX](https://www.anquanke.com/post/id/200682)/RMI 
-
+- [network-services-pentesting](https://book.hacktricks.xyz/network-services-pentesting/1883-pentesting-mqtt-mosquitto)  @hacktricks
 
 ### 5. Bypass
 - XFF bypass subdomain ACL whitelist : reverse proxy : localhost 
