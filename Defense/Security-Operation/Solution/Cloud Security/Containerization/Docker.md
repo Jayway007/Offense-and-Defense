@@ -18,3 +18,13 @@
 - attach : Attach your terminal's standard input, output and error to a running container
 - logs container-id : check the logs of container
 - inspect : Provide detailed information on constructs
+
+
+## Example
+- Setup a log4j vulnerability:
+```bash
+service docker start
+docker pull vulfocus/log4j2-rce-2021-12-09
+docker run -tid -p 38080:8080 vulfocus/log4j2-rce-2021-12-09
+```
+- 
