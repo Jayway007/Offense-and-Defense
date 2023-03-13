@@ -33,7 +33,10 @@
   - Unauthorization Access: Redis, Mongodb, Etcd, Rsync, Kafka, Zookeper, [Docker](https://askding.github.io/Kali/Exploit/Docker.html), Haddop
   - Specific scene : 
     - [IOT](https://cloud.tencent.com/developer/article/1776815)
-    - [Mosquitto-1883](https://book.hacktricks.xyz/network-services-pentesting/1883-pentesting-mqtt-mosquitto)
+    - [Mosquitto-1883](https://book.hacktricks.xyz/network-services-pentesting/1883-pentesting-mqtt-mosquitto)(RabbitMQ)
+      ```
+      mosquitto_sub -h ip -p port -t '$SYS/#' --cafile --insecure
+      ```
 - JRMP/[JMX](https://www.anquanke.com/post/id/200682)/RMI 
 - [network-services-pentesting](https://book.hacktricks.xyz/network-services-pentesting/)  @hacktricks
 
