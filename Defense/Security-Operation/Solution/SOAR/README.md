@@ -49,9 +49,6 @@ graph TD;
 | HIDS | job-124  | Reverse shell | 7.7.7.7 | 10.1.1.4 | kill-pid |
 
 - Security_API
-  - Router: type, action
-    - POST /waf/block  {sip:""}
-    - POST /hids/v1/api  {command: kill -9 "pid"}
-
-
-
+  - Router: type, action, metadata:{sip, dip}
+    - POST /waf/block  {sip:"SIP"}
+    - POST /hids/v1/api  {command: kill -9 \"pid\"}
