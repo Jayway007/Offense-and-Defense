@@ -50,8 +50,8 @@ graph TD;
 
 - Security_API
   - Router: type, action
-    - POST /waf/block {sip:""}
-    - POST /hids/v1/api {command: kill -9 "pid"}
+    - POST /waf/block  {sip:""}
+    - POST /hids/v1/api  {command: kill -9 "pid"}
 
 
 
