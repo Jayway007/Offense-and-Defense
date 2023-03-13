@@ -21,7 +21,7 @@
   - CMS
   - VPN command injection: ../
 - XSS : POST / DOM 
-- File upload : 
+- File upload : directory
 
 ### 3. API Pentest
 - sensitive APIs in js files
@@ -40,6 +40,5 @@
 - office network whitelist IP 
 
 ## `Resources`
-- [企业级钓鱼演练平台搭建](https://xz.aliyun.com/t/11898) @xianzhi
 
 
