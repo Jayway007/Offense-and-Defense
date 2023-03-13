@@ -31,9 +31,11 @@
 - password brute-force: weak password
 - sensitive ports
   - Unauthorization Access: Redis, Mongodb, Etcd, Rsync, Kafka, Zookeper, [Docker](https://askding.github.io/Kali/Exploit/Docker.html), Haddop
-  - Specific scene : [IOT](https://cloud.tencent.com/developer/article/1776815)
+  - Specific scene : 
+    - [IOT](https://cloud.tencent.com/developer/article/1776815)
+    - [Mosquitto-1883](https://book.hacktricks.xyz/network-services-pentesting/1883-pentesting-mqtt-mosquitto)
 - JRMP/[JMX](https://www.anquanke.com/post/id/200682)/RMI 
-- [network-services-pentesting](https://book.hacktricks.xyz/network-services-pentesting/1883-pentesting-mqtt-mosquitto)  @hacktricks
+- [network-services-pentesting](https://book.hacktricks.xyz/network-services-pentesting/)  @hacktricks
 
 ### 5. Bypass
 - XFF bypass subdomain ACL whitelist : reverse proxy : localhost 
