@@ -40,4 +40,5 @@ Assets -- Identify(Threats) -- Detection -- Response -- Protect(Solution)
 
 ### supply chain
  
- 
+## Reference
+- [The SANS Guide to Evaluating Attack Surface Management](https://www.sans.org/white-papers/39905/)  @SANS
