@@ -33,3 +33,5 @@
 ## Practice
  - [Top20-docker-security-best-practices](https://blog.aquasec.com/docker-security-best-practices) @ Aqua
 
+## TODO
+Advanced understanding of container security, developing security content to detect threats across various container and platforms and technologies.
