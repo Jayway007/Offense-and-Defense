@@ -17,5 +17,5 @@ Including everything about Offense and Defense technique
 - https://github.com/Jayway007/
 - https://hackerone.com/j2zz?type=user
 - https://www.youtube.com/channel/UCJeBGYtOLJ49RUwsA2c93Rg
+- https://www.linkedin.com/in/jianwen-ding-3325b3b3/
 - https://cloud.tencent.com/developer/column/81357
-
