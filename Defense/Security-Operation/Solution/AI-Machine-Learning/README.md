@@ -21,6 +21,8 @@
 - [ChatGPT在信息安全领域的应用前景](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247493920&idx=1&sn=629091ac3d819cbd41891162428f0562)
   -  Keyword: Identify vulnerability in code / write exploit code / give mitigation advice / write recon tool / shellcode analysis / extender of IDA / write reports
 - [Create XSS Lab with Chatgpt](https://infosecwriteups.com/create-your-own-xss-lab-with-chatgpt-385c4e5e7f35)
+- [chatgpt-prompts-bug-bounty](https://github.com/TakSec/chatgpt-prompts-bug-bounty)
+
 
 ## Scenes
 - Detect reverse shell based on process
