@@ -27,4 +27,5 @@ service docker start
 docker pull vulfocus/log4j2-rce-2021-12-09
 docker run -tid -p 38080:8080 vulfocus/log4j2-rce-2021-12-09
 ```
-- 
+## Resources
+- [awesome-docker](https://awesome-docker.netlify.app/) : A curated list of Docker resources and projects
