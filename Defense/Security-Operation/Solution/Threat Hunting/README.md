@@ -28,4 +28,4 @@
 - [威胁狩猎](https://www.zhihu.com/question/519566237)  @猪猪侠
 - [威胁狩猎概念科普](https://mp.weixin.qq.com/s/Yg0kpWNYQVk0iQ1oIhC-GQ)  @rayh4c
 - [The Who, What, Where, When, Why and How of Effective Threat Hunting](https://www.sans.org/white-papers/who-what-where-when-why-how-effective-threat-hunting/)  @SANS
-- []
+- [threat_hunting_resources](https://github.com/The-Art-of-Hacking/h4cker/tree/master/threat_hunting) @h4cker
