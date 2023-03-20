@@ -20,5 +20,6 @@ curl https://xx.com/v1/api  \
 ```bash
 curl https://xx.com/v1/api  \
 -F 'key=@/path/to/file'
+--form file=@/path/to/file
 ```
 ```
