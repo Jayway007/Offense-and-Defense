@@ -6,3 +6,19 @@ Netcat (or nc) is a command-line utility that reads and writes data across netwo
 - -p port : Specify the local port for remote connections
 - -n : suppress name/port resolutions
 - -v : verbose, detailed
+
+# Curl
+```bash
+curl https://xx.com/v1/api  \
+-X POST  \
+-H "Content-Type: application/json" \
+-H "Authorization: Bearer xxx" \
+-d '{"input": "Sample text goes here"}'
+```
+
+```bash
+```bash
+curl https://xx.com/v1/api  \
+-F 'key=@/path/to/file'
+```
+```
