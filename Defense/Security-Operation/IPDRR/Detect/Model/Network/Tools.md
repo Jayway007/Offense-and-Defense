@@ -7,7 +7,7 @@ Netcat (or nc) is a command-line utility that reads and writes data across netwo
 - -n : suppress name/port resolutions
 - -v : verbose, detailed
 
-# Curl
+# [Curl](https://curl.se/docs/httpscripting.html)
 ```bash
 curl https://xx.com/v1/api  \
 -X POST  \
@@ -17,9 +17,8 @@ curl https://xx.com/v1/api  \
 ```
 
 ```bash
-```bash
 curl https://xx.com/v1/api  \
 -F 'key=@/path/to/file'
 --form file=@/path/to/file
 ```
-```
+
