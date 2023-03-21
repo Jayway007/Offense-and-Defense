@@ -6,7 +6,7 @@
 ## Handler
 - eval 
   - key = "value"
-  - key = field1 = field2
+  - key = field1 - field2
 - rename
 - fillnull value="NULL" field1, field2
 - modifyincidents key = value, key1 = "value2"
