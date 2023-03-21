@@ -6,13 +6,13 @@
 - Abnormal model based on Semantics
   - [TF-IDF](https://monkeylearn.com/blog/what-is-tf-idf/)
   - [iForest](https://zhuanlan.zhihu.com/p/25040651)
-  - One-Class SVM : Abnormal
+  - One-Class SVM : Abnormal point except the group(离群点)
   - [LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) : Predict possible command
+  - HMM : sequence 
   - [Graph-powered](https://www.tigergraph.com.cn/)  -- 图数据库  
   - [BERT](https://h2o.ai/wiki/bert/)
   - [HBOS](https://medium.com/dataman-in-ai/anomaly-detection-with-histogram-based-outlier-detection-hbo-bc10ef52f23f)
   - ECOD
-  - HMM
   
 ## Resource
 - [AI-Machine-Learning-Security_github](https://github.com/hongriSec/AI-Machine-Learning-Security)  @红日安全
