@@ -35,6 +35,11 @@
 - chown : modify the owner
 - chmod : modify the privilege
 
+### Data Process
+- grep
+- awk -F 
+- 
+
 ### Reference
 - [Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
 
