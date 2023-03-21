@@ -7,7 +7,7 @@
   - [TF-IDF](https://monkeylearn.com/blog/what-is-tf-idf/)
   - [iForest](https://zhuanlan.zhihu.com/p/25040651)
   - One-Class SVM : Abnormal
-  - [LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+  - [LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) : Predict possible command
   - [Graph-powered](https://www.tigergraph.com.cn/)  -- 图数据库  
   - [BERT](https://h2o.ai/wiki/bert/)
   - [HBOS](https://medium.com/dataman-in-ai/anomaly-detection-with-histogram-based-outlier-detection-hbo-bc10ef52f23f)
