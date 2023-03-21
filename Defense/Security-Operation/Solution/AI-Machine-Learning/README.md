@@ -12,6 +12,7 @@
   - [BERT](https://h2o.ai/wiki/bert/)
   - [HBOS](https://medium.com/dataman-in-ai/anomaly-detection-with-histogram-based-outlier-detection-hbo-bc10ef52f23f)
   - ECOD
+  - HMM
   
 ## Resource
 - [AI-Machine-Learning-Security_github](https://github.com/hongriSec/AI-Machine-Learning-Security)  @红日安全
