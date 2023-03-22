@@ -16,5 +16,11 @@ Hive is a data warehouse analysis system, providing SQL search to analyze data s
 # [Spark](https://spark.apache.org/)
 Apache Spark is a multi-language engine for executing data engineering, data science, and machine learning on single-node machines or clusters, including Python, SQL, Scala, Java and R.
 
+## [PySpark](https://spark.apache.org/docs/latest/api/python/)
+PySpark is an interface for Apache Spark in Python. PySpark supports most of Spark’s features such as Spark SQL, DataFrame, Streaming, MLlib (Machine Learning) and Spark Core
 
+### Spark Core
+Spark Core is the underlying general execution engine for the Spark platform that all other functionality is built on top of. It provides an RDD (Resilient Distributed Dataset) and in-memory computing capabilities.
 
+# [Flink](https://flink.apache.org/)
+Apache Flink is a framework and distributed processing engine for stateful computations over unbounded and bounded data streams. Flink has been designed to run in all common cluster environments, perform computations at in-memory speed and at any scale.
