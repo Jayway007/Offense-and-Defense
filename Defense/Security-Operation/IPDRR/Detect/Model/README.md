@@ -44,7 +44,10 @@ logs--filter_neede--rules--business_whitelist
    - Machine Learning
      - unsupervised algorithm
      - supervised algorithm: add tags
-   - 
+
+## Difficulty
+- Logs or events formats and fields 
+- Alarms formats and fields
 
 ## Cases
 - [人工智能技术在态势感知的应用](https://mp.weixin.qq.com/s/AVlAoCPEJnNL_DuHGGD0Hg) @Huawei
