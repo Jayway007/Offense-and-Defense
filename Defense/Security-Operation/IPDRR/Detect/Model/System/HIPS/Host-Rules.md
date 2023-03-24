@@ -24,7 +24,7 @@
 - ancester
   - not sshd
 - cmdline
-  - sensitive commands or programs : any program can be used 
+  - sensitive commands or programs and params used: any program can be used 
   - sensitive paths 
     - /usr/bin
     - authentication
