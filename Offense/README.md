@@ -1,7 +1,9 @@
 ## Deep
 - The design and implement :  read open-source project
 - The underlying knowledge : Linux
-- All existed programs or exmaples are all just reference, you need to think from beginning, learn from them then build your own one.
+- All existed programs or exmaples are all just reference
+  - You need to think from beginning, learn from them then build your own one.
+  - You need to think deep about that and conclude a bigger conclusion
 
 ## Achievement
 - historical: CVE, bounty, rank
