@@ -1,7 +1,7 @@
 ## Deep
 - The design and implement :  read open-source project
 - The underlying knowledge : Linux
-- 
+- All existed programs or exmaples are all just reference, you need to think from beginning, learn from them then build your own one.
 
 ## Achievement
 - historical: CVE, bounty, rank
