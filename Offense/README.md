@@ -4,6 +4,7 @@
 - All existed programs or exmaples are all just reference
   - You need to think from beginning, learn from them then build your own one.
   - You need to think deep about that and conclude a bigger conclusion
+- Practicing is the best methods to examine theories
 
 ## Achievement
 - historical: CVE, bounty, rank
