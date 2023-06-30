@@ -19,12 +19,17 @@
   - Yongyou
   - Jypter
   - CMS
-  - VPN command injection: ../
+  - VPN command injection
+  - F5 RCE & Bypass
 - XSS : POST / DOM 
 - File upload : directory
+- Experssion Language Injection
+- Code review to 0day
+  - File operation
+  - 
 
 ### 3. API Pentest
-- sensitive APIs in js files
+- sensitive APIs in js files : unauth
 - path brute-force : wordlists
 
 ### 4. Open Port
@@ -42,8 +47,13 @@
 
 ### 5. Bypass
 - XFF bypass subdomain ACL whitelist : reverse proxy : localhost 
-- office network whitelist IP 
+- office network whitelist IP
 
-## `Resources`
+
+### 6. Business Logic
+- sensitive function: FaaS
+- text template render from provider
+- normal user priviledge escape & internal movement
+
 
 
