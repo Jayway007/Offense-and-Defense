@@ -1,7 +1,7 @@
-# Point:
+# Point
 *Loop Attack* ： Based on the new environment to redirect, discover and collection, finding new weakness to transfer to the next one
 
-- Discovery
+## Discovery
   - SSH
     - known_hosts: logged
     - .ssh/
@@ -16,8 +16,7 @@
   - private key
     - scenes : login
     
-    
-- service exploit
+## service exploit
   - Weak Password
   - Brute force : SSH, FTP, Mysql
   - Unauthorization Access : Redis, Mongodb, Etcd, Rsync, Kafka, Zookeper, Docker, Hadoop, NFS
