@@ -1,9 +1,17 @@
-## Type
-### API Management
+# Types
+## API Management
 - Swigger
-- 
+ 
 
-### Server files
+## Server files
+- /etc/passwd
 
 
-### Open-source platform
+## Open-source platform
+- actuator
+
+
+
+# Keys
+- Unique
+- Match rules
