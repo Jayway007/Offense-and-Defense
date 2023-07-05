@@ -1,5 +1,5 @@
-## `Experience`
-### 1. Misconfigure
+# `Experience`
+## 1. Misconfigure
 - Nginx config
   - files: config / history / codes / authorization
   - upload
@@ -9,7 +9,8 @@
   - bak, txt
   - dadabase file
 
-### 2. Vulnerability
+
+## 2. Vulnerability
 - SQL Injection : [clickhouse](https://blog.deteact.com/yandex-clickhouse-injection/)
 - Open-source Nday:
   - Fastjson
@@ -28,11 +29,12 @@
   - File operation
   - 
 
-### 3. API Pentest
+## 3. API Pentest
 - sensitive APIs in js files : unauth
 - path brute-force : wordlists
 
-### 4. Open Port
+
+## 4. Service Pentesting
 - password brute-force: weak password
 - sensitive ports
   - Unauthorization Access: Redis, Mongodb, Etcd, Rsync, Kafka, Zookeper, [Docker](https://askding.github.io/Kali/Exploit/Docker.html), Haddop
@@ -45,15 +47,20 @@
 - JRMP/[JMX](https://www.anquanke.com/post/id/200682)/RMI 
 - [network-services-pentesting](https://book.hacktricks.xyz/network-services-pentesting/)  @hacktricks
 
-### 5. Bypass
+
+## 5. Bypass
 - XFF bypass subdomain ACL whitelist : reverse proxy : localhost 
 - office network whitelist IP
 
 
-### 6. Business Logic
-- sensitive function: FaaS
-- text template render from provider
+## 6. Business Logic
+- sensitive function/service: FaaS
+- text template render from third-part provider
 - normal user priviledge escape & internal movement
 
-
+## Easier ways ---> Side doors
+- hidden assest: single ip, domain concat port urls, rare ports and service
+- 404/401 pages: path bruteforce
+- other types of endpoits: mobile, laptop
+- supply chain
 
