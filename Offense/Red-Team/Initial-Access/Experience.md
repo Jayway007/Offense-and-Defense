@@ -1,8 +1,8 @@
 # `Experience`
 ## 1. Misconfigure
 - Nginx config
-  - files: config / history / codes / authorization
-  - upload
+  - Arbitary file read: config / history / codes / authorization
+  - PUT method allowd
 - Spingboot Actuator
 - Cloud Service
 - Other
@@ -61,6 +61,7 @@
 ## *Easier ways ---> Side doors*
 - hidden assest: single ip, domain concat port urls, rare ports and service
 - 404/401 pages: path bruteforce
-- other types of endpoits: mobile, laptop
+- other types of entrances: mobile, laptop
 - supply chain
+- information disclosion and phishing
 
