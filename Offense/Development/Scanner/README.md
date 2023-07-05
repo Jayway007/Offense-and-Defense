@@ -1,6 +1,7 @@
 ## Scanner
 
 - Automatic Scans platform
+
 ![image](https://github.com/Jayway007/Offense-and-Defense/assets/22486282/30d7335c-02d9-43e0-9857-3c707a0e9f54)
 
 - Nuclei in Java
