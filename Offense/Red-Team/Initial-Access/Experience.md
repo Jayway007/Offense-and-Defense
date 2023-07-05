@@ -58,7 +58,7 @@
 - text template render from third-part provider
 - normal user priviledge escape & internal movement
 
-## Easier ways ---> Side doors
+## *Easier ways ---> Side doors*
 - hidden assest: single ip, domain concat port urls, rare ports and service
 - 404/401 pages: path bruteforce
 - other types of endpoits: mobile, laptop
