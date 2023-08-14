@@ -3,6 +3,7 @@
 - Nginx config
   - Arbitary file read: config / history / codes / authorization
   - PUT method allowd
+- [Common Nginx misconfigurations](https://blog.detectify.com/2020/11/10/common-nginx-misconfigurations/)
 - Spingboot Actuator
 - Cloud Service
 - Other
