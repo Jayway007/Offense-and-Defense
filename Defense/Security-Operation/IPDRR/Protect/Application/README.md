@@ -14,7 +14,7 @@
 
 ## Deploy
 - WAF
-  - reverse & bypass(not block)
+  - reverse & bypass(not block) & proxy
   - domain access
   - health monitor
 - [浅谈WAF应用防火墙部署](https://zhuanlan.zhihu.com/p/386852978) 
