@@ -8,7 +8,9 @@
 
 
 ## Solution
-- BAS
+- BAS：
+  - Execute testing, validation, and verification activities (e.g., field testing, performance testing, etc.) to evaluate and certify the effectiveness and stability of engineered capabilities.
+  - 
 
 ## Product
 - [离朱 安全验证平台](https://www.zhiqiansec.com/products.html)  @zhiqiansec
