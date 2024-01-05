@@ -9,3 +9,7 @@
 # Certificate
 - [security-certification-roadmap](https://pauljerimy.com/security-certification-roadmap/)
 
+# Blog
+- https://infosecwriteups.com/
+- https://samcurry.net/blog/
+- 
