@@ -5,10 +5,15 @@
   - You need to think from beginning, learn from them then build your own one.
   - You need to think deep about that and conclude a bigger conclusion
 - Practicing is the best methods to examine theories
+- Learning continiously is the best way to find a vulnerability
 
 ## Achievement
 - historical: CVE, bounty, rank
 - record: blog, github
+
+## Interview
+- https://www.hackthebox.com/blog/15-penetration-testing-interview-questions
+
 
 ## Reference
 - [Google Vulnerability Rewards Program(VRP)](https://security.googleblog.com/2022/06/announcing-winners-of-2021-gcp-vrp-prize.html)
