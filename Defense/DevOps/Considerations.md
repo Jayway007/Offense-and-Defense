@@ -25,5 +25,14 @@
 - Security Audit
 - User Access Management
 
-  # Tools
-  
+# Tools
+## SAST
+- Checkmarx
+- Forfify
+- SonarQube
+- Veracode
+
+## DAST
+- Acunetix
+- IBM AppScan
+- Burpsuite
