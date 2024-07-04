@@ -1,6 +1,6 @@
 # Development
-## Secure Coding
-## Dependency/Library
+- Secure Coding
+- Dependency/Library
 ## Least Privilege Principle
 ## Code Review
 
