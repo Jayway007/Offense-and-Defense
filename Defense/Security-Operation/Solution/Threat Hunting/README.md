@@ -1,3 +1,6 @@
+## Definition
+Proactively identify, detect, or uncover threats that my not have been detected by automated security solutions
+
 ## Comparation
 | Solution  | Detection  | Hunting |
 | ------------- | ------------- | ------------- |
