@@ -31,6 +31,7 @@
 - Forfify
 - SonarQube
 - Veracode
+- Semgrep
 
 ## DAST
 - Acunetix
@@ -39,7 +40,7 @@
 
 ## Container Security
 - Image Scanning
-- Vulnerability Detection
+- Vulnerability Detection: https://github.com/aquasecurity/trivy
 - Monotoring
 - Runtime
 - Compliance
@@ -49,3 +50,7 @@
 - Automation and orchestion
 - Container Security Platform
 - Update
+
+# Ias
+- Checkov: https://www.checkov.io/
+
