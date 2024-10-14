@@ -4,3 +4,7 @@
 
 ## Tools
 - https://github.com/Azure/PyRIT
+
+
+## LLM
+- https://socradar.io/owasp-top-10-or-llms/
