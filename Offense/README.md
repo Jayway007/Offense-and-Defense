@@ -24,3 +24,6 @@
 - Basic knowledge & Underlying principle ： system, coding, protocol
 - Basic development skills and framework design
 
+
+k3b6p-v8n2d-f4v8
+8.215.72.232
