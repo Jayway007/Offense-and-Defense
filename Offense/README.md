@@ -11,9 +11,6 @@
 - historical: CVE, bounty, rank
 - record: blog, github
 
-## Interview
-- https://www.hackthebox.com/blog/15-penetration-testing-interview-questions
-
 
 ## Reference
 - [Google Vulnerability Rewards Program(VRP)](https://security.googleblog.com/2022/06/announcing-winners-of-2021-gcp-vrp-prize.html)
