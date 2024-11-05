@@ -10,7 +10,7 @@
 - What to find in Menifest file?
 - What is Intent, how to validate?
 - Local storage of directory or file to check
-- 
+- What tools do you use to bypass SSL Pinning?
 
 
 ## IOS
