@@ -21,7 +21,8 @@
 - Basic knowledge & Underlying principle ： system, coding, protocol
 - Basic development skills and framework design
 
-
-k3b6p-v8n2d-f4v8
-8.215.72.232
-![image](https://github.com/user-attachments/assets/4b3a127c-c90c-4bd0-926e-bcd5e9078f2a)
+INFO
+- k3b6p-v8n2d-f4v8
+- Login: 8.215.72.232
+- jenkins: https://8.209.197.4/
+- ![image](https://github.com/user-attachments/assets/4b3a127c-c90c-4bd0-926e-bcd5e9078f2a)
