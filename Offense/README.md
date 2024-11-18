@@ -24,5 +24,6 @@
 INFO
 - k3b6p-v8n2d-f4v8
 - Login: 8.215.72.232
+- Link: https://doc.topluck999.com/pages/viewpage.action?pageId=15705143
 - jenkins: https://8.209.197.4/
 - ![image](https://github.com/user-attachments/assets/4b3a127c-c90c-4bd0-926e-bcd5e9078f2a)
