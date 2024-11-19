@@ -25,7 +25,7 @@ INFO
 - k3b6p-v8n2d-f4v8
 - ID7 Data: 8.215.72.232
 - ID1 Customer https://customer.hiwin.win/#/login
-- ID1 Data: https://www.no1data.win/#/login
+- ID1 Data 数据后台: https://www.no1data.win/#/login
 - Link: https://doc.topluck999.com/pages/viewpage.action?pageId=15705143
 - jenkins: https://8.209.197.4/
 - NACOS: http://47.74.8.52:8848/nacos/index.html
