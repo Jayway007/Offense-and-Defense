@@ -30,5 +30,5 @@ INFO
 - NACOS: http://47.74.8.52:8848/nacos/index.html
 - Gitlab: https://8.211.131.123/users/sign_in
 - Harbor: https://47.74.44.90/
-- Zimbra: https://mail.topluck999.com/
+- Zimbra: https://mail.topluck999.com/    CVE-2024-45519
 - ![image](https://github.com/user-attachments/assets/4b3a127c-c90c-4bd0-926e-bcd5e9078f2a)
