@@ -31,4 +31,5 @@ INFO
 - Gitlab: https://8.211.131.123/users/sign_in
 - Harbor: https://47.74.44.90/
 - Zimbra: https://mail.topluck999.com/    CVE-2024-45519
+- 应用平台: http://bdp.topluck999.com/
 - ![image](https://github.com/user-attachments/assets/4b3a127c-c90c-4bd0-926e-bcd5e9078f2a)
