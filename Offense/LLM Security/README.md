@@ -12,6 +12,7 @@
 - They Hacked Google A.I. for $50,000: https://www.landh.tech/blog/20240304-google-hack-50000/
 - Hacking Google Bard - From Prompt Injection to Data Exfiltration: https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/
 - When Prompts Go Rogue: Analyzing a Prompt Injection Code Execution in Vanna.AI: https://jfrog.com/blog/prompt-injection-attack-code-execution-in-vanna-ai-cve-2024-5565/
+- Start Hacking LLMs: https://executiveoffense.beehiiv.com/p/executive-offense-issue-10-start-hacking-llms
 
 
 ## Tools
