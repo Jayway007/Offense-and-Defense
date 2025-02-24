@@ -1,13 +1,14 @@
 
 - Guides
-  - https://microsoft.github.io/Threat-Matrix-for-Kubernetes/
+  - ATT&CK: https://microsoft.github.io/Threat-Matrix-for-Kubernetes/
   - https://kubernetes-security.info/
-  - https://github.com/SunWeb3Sec/Kubernetes-security#kubernetes-pentesting
+  - Checklist: https://github.com/SunWeb3Sec/Kubernetes-security#kubernetes-pentesting
+  - https://redfoxsec.com/blog/attacking-kubernetes-part-1/
+  - https://www.cyberark.com/resources/threat-research-blog/kubernetes-pentest-methodology-part-1
 
 
 - Cases:
-  - https://redfoxsec.com/blog/attacking-kubernetes-part-1/
-  - https://www.cyberark.com/resources/threat-research-blog/kubernetes-pentest-methodology-part-1
+  - HTB: https://0xdf.gitlab.io/2021/09/04/htb-unobtainium.html#shell-as-root-1
  
 - Slides
   - RBAC: https://github.com/knownsec/KCon/tree/master/2024
