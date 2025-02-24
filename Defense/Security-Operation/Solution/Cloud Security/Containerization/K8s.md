@@ -7,6 +7,7 @@
 
 - Cases:
   - https://redfoxsec.com/blog/attacking-kubernetes-part-1/
+  - https://www.cyberark.com/resources/threat-research-blog/kubernetes-pentest-methodology-part-1
  
 - Slides
   - RBAC: https://github.com/knownsec/KCon/tree/master/2024
