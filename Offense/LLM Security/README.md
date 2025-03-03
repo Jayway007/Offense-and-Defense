@@ -4,6 +4,7 @@
 
 - The AI Attack Surface Map v1.0:  https://danielmiessler.com/p/the-ai-attack-surface-map-v1-0/
 - Prompt Injection Attacks and Mitigations from rez0:  https://josephthacker.com/ai/2023/04/19/prompt-injection-and-mitigations.html
+- How to Hack AI Agents and Applications： https://josephthacker.com/hacking/2025/02/25/how-to-hack-ai-apps.html
 - NIST’s document about AI security defines terminology:  https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf
 - Every AI Talk from BSidesLV, Black Hat, and DEF CON 2024: https://tldrsec.com/p/2024-bsideslv-blackhat-ai-talks
 
