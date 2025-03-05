@@ -1,4 +1,4 @@
-Modify Authentication Process((T1556)[https://attack.mitre.org/techniques/T1556/])
+Modify Authentication Process([T1556](https://attack.mitre.org/techniques/T1556/))
 
 ## Pluggable Authentication Modules()
 - PAM : ssh softlink
